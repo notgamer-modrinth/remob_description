@@ -90,4 +90,5 @@ That's it for the 1.1 changes, note that this is still an alpha version so bugs 
 - Buff the Elder Guardian by giving it 3 laser attacks so they feels more like a boss.
 - Wandering trader can now be located through the locator bar.
 - Slightly nerfed the killer bunny to deal less damage.
+- Makes heavy changes to villagers trading system, especially with items they are trading.
 </details>
