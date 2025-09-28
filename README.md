@@ -31,16 +31,6 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 
 </details>
 <details>
-<summary>Armorstand Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/armor_stand.png" width="16"/></summary>
-  
-## **ArmorStand (Regular Variant):**  
-  - **Rework:**  
-    - Spawns and crafted without stone base.
-    - Spawns naturally with arms.
-    - **Hit it and the very top of it's head** to **switch it's pose.**
-
-</details>
-<details>
 <summary>Axolotl Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/axolotl_spawn_egg.png" width="16"/></summary>
   
 ## **Axolotl (Regular Variant):**  
@@ -75,7 +65,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 
 </details>
 <details>
-<summary>Cat Rework</summary>
+<summary>Cat Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/cat_spawn_egg.png" width="16"/></summary>
   
 ## **Cat (Regular Variant)**  
 - **Health:** ⬆ 10 → 12 
