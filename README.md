@@ -361,6 +361,403 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 </details>
 </details>
 
+<details>
+<summary>Neutral Mobs</summary>
+
+## **Reworks done to neutral mobs**
+
+**Reworks** done to neutral mobs is either to **enchance their defense/offense**, give **them a new "role" for their functionality** or to **be more annoying to deal with.**
+
+<details>
+<summary>Bee Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/bee_spawn_egg.png" width="16"/></summary>
+  
+## **Bee (Regular Variant)**  
+- **Health:** ⬇ 10 → 8  
+- **Scale:** ⬇ 1 → 0.9 
+
+</details>
+<details>
+<summary>Cave Spider Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/cave_spider_spawn_egg.png" width="16"/></summary>
+  
+## **Cave Spider (Regular Variant)**  
+- **Health:** ⬇ 16 → 8  
+- **Speed:** ⬆ 0.3 → 0.325  
+- **Safe Fall Distance:** ⬆ 3 → 5  
+- **Scale:** ⬇ 1 → 0.9 
+- **Attack Damage:** ⬇ 2 → 0.5  
+- **Fall Damage Multiplier:** ⬇ 1 → 0.5  
+- **Abilities:**  
+  - Spawns **1 - 2 additional spiders** upon appearing.  
+
+## ** Cave Wolf Spider (Variant)**  
+- **Health:** ⬆ 16 → 32  
+- **Speed:** ⬇ 0.3 → 0.225  
+- **Safe Fall Distance:** ⬆ 3 → 5  
+- **Scale:** ⬆ 1 → 1.45  
+- **Attack Damage:** ⬆ 2 → 2.5  
+- **Fall Damage Multiplier:** ⬇ 1 → 0.5  
+- **Abilities:**  
+  - Spawns with **3 - 10 spiderlings** riding on its back.  
+  - **💡Tips:** Always carry a flint and steel, or a sweeping edge sword to counter the swarm.
+  - All spiderlings **dismount when the Wolf Spider is hurt**.  
+### **Cave Spiderling (Summoned Mob)**  
+- **Health:** ⬇ 16 → 2 
+- **Speed:** ⬆ 0.3 → 0.325  
+- **Scale:** ⬇ 1 → 0.29
+- **Attack Damage:** ⬇ 2 → 0.5
+
+## **Cave Goliath Spider (Variant)**  
+- **Health:** ⬆ 16 → 64  
+- **Speed:** ⬇ 0.3 → 0.2  
+- **Safe Fall Distance:** ⬆ 3 → 5  
+- **Scale:** ⬆ 1 → 2.65  
+- **Attack Damage:** ⬆ 2 → 5  
+- **Fall Damage Multiplier:** ⬇ 1 → 0.5  
+- **Knockback Resistance:** ⬆ 0 → 10  
+- **Abilities:**  
+  - Hostile mobs nearby **can ride it**.  
+  - **Immune to all potion effects**.   
+
+</details>
+<details>
+<summary>Drowned Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/drowned_spawn_egg.png" width="16"/></summary>
+  
+## **Drowned (Regular Variant)**  
+- **Health:** ⬆ 20 → 22  
+- **Speed:** ⬇ 0.23 → 0.2  
+- **Attack Damage:** ⬇ 3 → 2 
+- **Base Armor:** ⬆ 2 → 6  
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
+**Abilities:**  
+- Gives **weakness I for 6 seconds** to entities it hurts
+- **Reverses all negative effects** it receives:  
+  - **Weakness → Strength**  
+  - **Slowness → Speed**  
+  - **Poison → Regeneration**  
+- **The Positive effects are always Level I** and last for **1 minute**.
+
+## **Giant Drowned (2% to spawn from a regular drowned)**  
+- **Health:** ⬆ 20 → 72  
+- **Speed:** ⬇ 0.23 → 0.225  
+- **Attack Damage:** ➡ 2  
+- **Attack Knockback:** ⬆ 0 → 1 
+- **Knockback Resistance:** ⬆ 0 → 0.75 
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
+**Abilities:**  
+- **Reverses all negative effects** it receives:  
+  - **Weakness → Strength**  
+  - **Slowness → Speed**  
+  - **Poison → Regeneration**  
+- **The Positive effects are always Level I** and last for **1 minute**.
+- Permanent **regeneration I**
+</details>
+<details>
+<summary>Enderman Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/enderman_spawn_egg.png" width="16"/></summary>
+
+## **Overworld Enderman:**  
+  - **Health:** ⬇ 40 → 20  
+  - **Attack Damage:** ⬇ 7 → 4  
+  - **Scale:** ⬇ 1 → 0.75  
+
+## **Nether Enderman:**  
+  - **Health:** ⬇ 40 → 25  
+  - **Attack Damage:** ⬇ 7 → 6  
+  - **Scale:** ➡ 1 (No change)  
+  - **Abilities:**  
+    - Gives blindness I for 3 seconds to attacked players.  
+
+## **End Enderman:**  
+  - **Health:** ⬇ 40 → 35  
+  - **Attack Damage:** ⬆ 7 → 8  
+  - **Scale:** ⬆ 1 → 1.15  
+  - **Fall Multiplier:** ⬇ 1 → 0 (Ignores fall damage)  
+  - **Abilities:**  
+    - Gives blindness I for 3 seconds to attacked players.     
+    - Gains permanent **Speed II** when health drops below 15.  
+
+- **Shared Abilities (All Variants):**  
+  - Can **pick up any item** nearby.
+
+- **Additional Info**:
+   - Ender pearl can only **spawn endermite in the end**, on other dimension, have small chances **to summon an enderman instead**.
+</details>
+<details>
+<summary>Iron Golem Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/iron_golem_spawn_egg.png" width="16"/></summary>
+
+## **Iron Golem:**  
+  - **Health:** ⬆ 100 → 200  
+  - **Attack Damage:** ⬇ 15 → 3  
+  - **Attack Knockback:** ⬆ 0 → 1.5  
+  - **Follow Range:** ⬆ 16 → 32  
+  - **Speed:** ⬇ 0.25 → 0.2  
+  - **Scale:** ⬆ 1 → 1.25 
+  - **Abilities:**  
+    - When at full health, **gains Resistance X** (becomes nearly invulnerable until damaged).  
+    - Upon death, **splits into 2 Mini Iron Golems and triggers a small explosion.**  
+      *When hurt, **gains Regeneration I for 3 seconds.**  
+    - **Baby Villagers can ride it** under a specific condition.
+    - **💡Tips:** Use the iron golem as a tank to defeating a mob, not as an attacker.
+
+### **Mini Iron Golem (Spawned on Death):**  
+  - **Health:** ⬇ 100 → 35  
+  - **Attack Damage:** ⬇ 15 → 10  
+  - **Speed:** ⬆ 0.25 → 0.4  
+  - **Scale:** ⬇ 1 → 0.85 
+
+</details>
+<details>
+<summary>Llamas Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/llama_spawn_egg.png" width="16"/></summary>
+  
+## **Llama (Regular Variant):**  
+  - **Speed:** ⬆ 0.17 → 0.2
+  - **Abilities:**  
+    - Llama spit now gives **poison III for 2 seconds.**
+    - Carpet now gives **5 armor points.**
+    - Have 10% chances to spawn naturally with **carpet(all with equal chances).**
+  
+## **Trader llama (Regular Variant):**  
+  - **Speed:** ⬆ 0.17 → 0.2
+  - **Abilities:**  
+    - Llama spit now gives **poison III for 2 seconds.**
+    - Carpet now gives **5 armor points.**
+    - Always spawn with chest and max chest capacity.
+
+</details>
+<details>
+<summary>Panda Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/panda_spawn_egg.png" width="16"/></summary>
+
+## **Panda:**  
+  - **Health:** ⬆ 20 → 30  
+  - **Attack Damage:** ⬇ 6 → 4    
+  - **Attack Knockback:** ⬆ 0 → 1    
+  - **Safe Fall Distance:** ⬆ 3 → 7  
+  - **Abilities:**  
+   - Now immune to **freezing**.
+
+</details>
+<details>
+<summary>Piglin(These are going to be a lot) <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/piglin_spawn_egg.png" width="16"/></summary>
+
+## **Piglin Peasant:**  
+  - **Health:** ⬆ 16 → 18  
+  - **Speed:** ⬇ 0.35 → 0.3  
+  - **Attack Damage:** ⬇ 5 → 1  
+  - **Scale:**  ⬇ 1 → 0.8 - 0.9  
+  - **Armor & Equipment:** Wears **only leather armor** (red or blue, depending on the biome). **Cannot spawn with golden items,**  but it can still trade for gold.
+    - **Abilities:**  
+    - **May suddenly attack if a player gets too close.**  
+    - **Gains Strength I** when in a group of **three or more.**  
+    - **💡Tips:** Stay away from a peasant group, they may attack you and deal a heavy damage.
+
+## **Crimson Tribe Piglin:**  
+  - **Health:** ⬆ 16 → 20  
+  - **Speed:** ⬇ 0.35 → 0.275  
+  - **Attack Damage:** ⬇ 5 → 4  
+  - **Scale:**  ⬇ 1 → 0.835 - 0.95  
+  - **Armor & Equipment:** Wears **only red dyed leather armor**, can spawn only with axe and swords, which can be either stone or wooden.
+    - **Abilities:**  
+    - **Likely to attack if a player gets too close.**    
+
+## **Infected Crimson Piglin:**  
+  - **Health:** ⬆ 16 → 64
+  - **Speed:** ⬇ 0.35 → 0.2 
+  - **Attack Damage:** ⬇ 5 → 4  
+  - **Scale:**  ⬆ 1 → 1.15
+  - **Armor & Equipment:** Have a full set of leather armor and **nether wart block for the head**
+    - **Abilities:**  
+    - **Attack if a player gets too close.** 
+    - **Infinite regeneration**
+    - **Summons a small infected crimson piglin** when **it hits a player**.
+
+### **Small Infected Crimson Piglin:**  
+  - **Health:** ⬇ 16 → 8
+  - **Speed:** ⬇ 0.35 → 0.25 
+  - **Attack Damage:** ⬇ 5 → 2  
+  - **Scale:**  ⬇ 1 → 0.75
+  - **Armor & Equipment:** Have a full set of leather armor and **nether wart block for the head**
+
+## **Warped Tribe Piglin:**  
+  - **Health:** ⮕ 16  
+  - **Speed:** ⮕ 0.35 
+  - **Attack Damage:** ⬇ 5 → 2  
+  - **Scale:**  ⬇ 1 → 0.785 - 0.85  
+  - **Armor & Equipment:** Wears **only cyan dyed leather armor**, has 25% chance to spawn with crossbow and different arrow types
+    - **Abilities:**  
+    - **Likely to attack if a player gets too close.**    
+
+## **Infected Warped Piglin:**  
+  - **Health:** ⬆ 16 → 64
+  - **Speed:** ⬇ 0.35 → 0.215 
+  - **Attack Damage:** ⬇ 5 → 3  
+  - **Scale:**  ⬆ 1 → 1.05
+  - **Armor & Equipment:** Have a full set of leather armor and **warped wart block for the head**
+    - **Abilities:**  
+    - **Attack if a player gets too close.** 
+    - **Infinite regeneration**
+    - **Summons a small infected warped piglin when **it hits a player**.
+
+### **Small Infected Warped Piglin:**  
+  - **Health:** ⬇ 16 → 8
+  - **Speed:** ⬇ 0.35 → 0.265 
+  - **Attack Damage:** ⬇ 5 → 1.5  
+  - **Scale:**  ⬇ 1 → 0.65
+  - **Armor & Equipment:** Have a full set of leather armor and **warped wart block for the head**
+
+## **Piglin Rascal:**  
+  - **Health:** ⬆ 16 → 20  
+  - **Speed:** ⬆ 0.35 → 0.4  
+  - **Attack Damage:** ⬇ 5 → 2  
+  - **Scale:**  ⬇ 1 → 0.75 (Baby),  ⬇ 1 → 0.9 (Adult)  
+  - **Armor & Equipment:** Always wears an **enchanted golden helmet.**  
+  - **Abilities:**  
+    - **"Mimics"** the **item hold by closest player(5 block radius)**.  
+    - **💡Tips:** Always hold a weak weapon/not a powerful weapon when fighting it.
+
+## **Piglin Trader:**  
+  - **Health:** ⬆ 16 → 24  
+  - **Speed:** ⬇ 0.35 → 0.15  
+  - **Attack Damage:** ⬇ 5 → 0  
+  - **Scale:**   ⬇ 1 → 0.95
+  - **Armor & Equipment: Spawns with a banner on top of his head  
+  - **Abilities:**  
+    - **Never attacks the player**, making it very suitable to trade
+
+## **Piglin Jester (Found mostly in Bastions):**  
+  - **Health:** ⬆ 16 → 24  
+  - **Speed:** ⬇ 0.35 → 0.2  
+  - **Attack Damage:** ⬇ 5 → 0.5  
+  - **Scale:** ⬇ 1 → 0.9  
+  - **Knockback Resistance:** **10**  
+  - **Abilities:**    
+    - When health is below 15, **spins very fast, creating a devastating impact for 15 seconds, heavily damages all nearby entities while spinning.**  
+    - **Has no collision,** so it can't be moved around.  
+    - **Spawns inside a cage** if outside a Bastion or Fortress.
+    - **💡Tips:** Fight it under the y-level of the piglin, so that you don't get pulled into while it was spining.
+
+## **Royal Piglin (Found mostly in Bastions):**  
+  - **Absorption:** **Starts with 12 Absorption Hearts.**  
+  - **Health:** ➡ **16** (Base health remains the same)  
+  - **Speed:** ⬇ 0.35 → 0.225  
+  - **Attack Damage:** ⬇ 5 → 4  
+  - **Scale:** ⬇ 1 → 0.85 
+  - **Armor & Equipment:** Wears a **shield and full goldren armor.**  
+  - **Abilities:**  
+    - Once Absorption runs out, **the shield will break.**  
+    - After the shield breaks, **gains:**  
+      - **Speed I**  
+      - **Strength I**  
+      - **Scale increases to 0.9.**  
+
+## **Giant Piglin:**  
+  - **Health:** ⬆ 16 → 150  
+  - **Attack Damage:** ⬆ 5 → 10  
+  - **Speed:** ⬇ 0.35 → 0.25  
+  - **Scale:** ⬇ 1 → 2  
+  - **Knockback Resistance:** **0.75**  
+   - **Abilities:**  
+    - **Has Infinite Regeneration**, making it extremely durable.  
+
+ 
+
+</details>
+<details>
+<summary>Spider Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/spider_spawn_egg.png" width="16"/></summary>
+  
+## **Spider (Regular Variant)**  
+- **Health:** ⬇ 16 → 8  
+- **Speed:** ⬆ 0.3 → 0.325  
+- **Safe Fall Distance:** ⬆ 3 → 5  
+- **Scale:** ⬇ 1 → 0.75  
+- **Attack Damage:** ⬇ 2 → 1.5  
+- **Fall Damage Multiplier:** ⬇ 1 → 0.5  
+- **Abilities:**  
+  - Spawns **1 - 2 additional spiders** upon appearing.  
+
+## **Wolf Spider (Variant)**  
+- **Health:** ⬆ 16 → 32  
+- **Speed:** ⬇ 0.3 → 0.225  
+- **Safe Fall Distance:** ⬆ 3 → 5  
+- **Scale:** ⬆ 1 → 1.25  
+- **Attack Damage:** ⬆ 2 → 5  
+- **Fall Damage Multiplier:** ⬇ 1 → 0.5  
+- **Abilities:**  
+  - Spawns with **3 - 10 spiderlings** riding on its back.  
+  - **💡Tips:** Always carry a flint and steel, or a sweeping edge sword to counter the swarm.
+  - All spiderlings **dismount when the Wolf Spider is hurt**.  
+### **Spiderling (Summoned Mob)**  
+- **Health:** ⬇ 16 → 2 
+- **Speed:** ⬆ 0.3 → 0.325  
+- **Scale:** ⬇ 1 → 0.25
+- **Attack Damage:** ⬇ 2 → 1.5
+
+## **Goliath Spider (Variant)**  
+- **Health:** ⬆ 16 → 64  
+- **Speed:** ⬇ 0.3 → 0.2  
+- **Safe Fall Distance:** ⬆ 3 → 5  
+- **Scale:** ⬆ 1 → 2.25  
+- **Attack Damage:** ⬆ 2 → 10  
+- **Fall Damage Multiplier:** ⬇ 1 → 0.5  
+- **Knockback Resistance:** ⬆ 0 → 10  
+- **Abilities:**  
+  - Hostile mobs nearby **can ride it**.  
+  - **Immune to all potion effects**.   
+
+</details>
+<details>
+<summary>Wolf Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/wolf_spawn_egg.png" width="16"/></summary>
+  
+## **Wolf (Regular Variant)**  
+**Abilities:**  
+- **Can pick up nearby items and experience orb** within a **2-block radius**.  
+- **When damaged,** it **gains Strength I** for **15 seconds**.  
+- **Spawns with different collar colors** randomly.  
+
+### **Wolf Sound Variants:**  
+
+
+### **Sad Wolf:**  
+  - **Attack Damage:** ⬇ 4 → 3  
+  - **Movement Speed:** ⬇ 0.3 → 0.2  
+  - **Scale:** ➝ 1 (No change) 
+  **Abilities:**
+ - **When damaged,** it **gains slowness and resistance I** alongside the strength effect. 
+
+### **Classic Wolf:**  
+  - **Attack Damage:** ➝ 4 (No change)  
+-  **When damaged,** it **gains jump boost I** alongside the strength effect.
+
+### **Angry Wolf:**  
+  - **Attack Damage:** ⬆ 4 → 6  
+  - **Movement Speed:** ⬆ 0.3 → 0.4  
+  - **Scale:** ➝ 1 (No change)
+- **When damaged,** it **gains strength I** for 25 seconds.
+
+### **Grumpy Wolf:**  
+  - **Attack Damage:** ➝ 4 (No change)  
+  - **Movement Speed:** ⬇ 0.3 → 0.15  
+  - **Scale:** ➝ 1 (No change)  
+- **When damaged,** it **gains strength I** for 20 seconds.
+
+### **Big Wolf:**  
+  - **Attack Damage:** ⬇ 4 → 2  
+  - **Attack Knockback:** ⬆ 0 → 0.5  
+  - **Movement Speed:** ⬆ 0.3 → 0.25  
+  - **Scale:** ⬆ 1 → 1.15 (Larger size)  
+-  **When damaged,** it **gains health boost I** alongside the strength effect.
+
+### **Cute Wolf:**  
+  - **Attack Damage:** ⬇ 4 → 2  
+  - **Movement Speed:** ⬆ 0.3 → 0.4  
+  - **Scale:** ⬇ 1 → 0.85 (Smaller size)  
+-  **When damaged,** it **gains speed I** alongside the strength effect.
+
+### **Puglin Wolf:**  
+  - **Attack Damage:** ⬇ 4 → 1  
+  - **Movement Speed:** ⬆ 0.3 → 0.5  
+  - **Scale:** ⬇ 1 → 0.65 (Shorter and stockier)
+-  **When damaged,** it **gains speed II** alongside the strength effect.
+</details>
+</details>
 
 
 <details>
