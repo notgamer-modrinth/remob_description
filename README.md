@@ -10,6 +10,8 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 
 ## **Reworks done to passive mobs**
 
+**Keep in mind** that most of the reworks done to passive mobs are made to either **enchance these mobs defense**, **give them a new/more functionality** or **rework their "lore" through their abilities.**
+
 <details>
 <summary>Allay Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/allay_spawn_egg.png" width="16"/>
 </summary>
