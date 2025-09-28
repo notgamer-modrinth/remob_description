@@ -1,7 +1,8 @@
 # Remob datapack - Beta V 1.0
-## The list of reworks done to mobs:
+## What is a mob rework?
 
-Reworks are done to almost every mob, each of them having atleast **1 unique ability**. Abilities are something that can **help the mobs in defense or offense**, usually **having a counter**. These reworks force players to **strategize to defeat certain mobs**.
+Reworks are stat changes, new abilities, and others given to almost every mob, each of them having at the very least **1 unique ability**. Abilities are something that can **help the mobs in defense and offense**, usually **having a counter**. These reworks force players to **strategize to defeat certain mobs with unique abilities**.
+
 ## Mobs Rework
 <details>
 <summary>Mobs A - G</summary>
