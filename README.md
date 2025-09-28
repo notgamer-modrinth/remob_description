@@ -719,42 +719,48 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
   - **Attack Damage:** ⬇ 4 → 3  
   - **Movement Speed:** ⬇ 0.3 → 0.2  
   - **Scale:** ➝ 1 (No change) 
-  **Abilities:**
+  - **Abilities:**
  - **When damaged,** it **gains slowness and resistance I** alongside the strength effect. 
 
 ### **Classic Wolf:**  
-  - **Attack Damage:** ➝ 4 (No change)  
+  - **Attack Damage:** ➝ 4 (No change)   
+  - **Abilities:**
 -  **When damaged,** it **gains jump boost I** alongside the strength effect.
 
 ### **Angry Wolf:**  
   - **Attack Damage:** ⬆ 4 → 6  
   - **Movement Speed:** ⬆ 0.3 → 0.4  
-  - **Scale:** ➝ 1 (No change)
+  - **Scale:** ➝ 1 (No change) 
+  - **Abilities:**
 - **When damaged,** it **gains strength I** for 25 seconds.
 
 ### **Grumpy Wolf:**  
   - **Attack Damage:** ➝ 4 (No change)  
   - **Movement Speed:** ⬇ 0.3 → 0.15  
-  - **Scale:** ➝ 1 (No change)  
+  - **Scale:** ➝ 1 (No change)   
+  - **Abilities:**
 - **When damaged,** it **gains strength I** for 20 seconds.
 
 ### **Big Wolf:**  
   - **Attack Damage:** ⬇ 4 → 2  
   - **Attack Knockback:** ⬆ 0 → 0.5  
   - **Movement Speed:** ⬆ 0.3 → 0.25  
-  - **Scale:** ⬆ 1 → 1.15 (Larger size)  
+  - **Scale:** ⬆ 1 → 1.15 (Larger size)   
+  - **Abilities:**
 -  **When damaged,** it **gains health boost I** alongside the strength effect.
 
 ### **Cute Wolf:**  
   - **Attack Damage:** ⬇ 4 → 2  
   - **Movement Speed:** ⬆ 0.3 → 0.4  
   - **Scale:** ⬇ 1 → 0.85 (Smaller size)  
+  - **Abilities:** 
 -  **When damaged,** it **gains speed I** alongside the strength effect.
 
 ### **Puglin Wolf:**  
   - **Attack Damage:** ⬇ 4 → 1  
   - **Movement Speed:** ⬆ 0.3 → 0.5  
-  - **Scale:** ⬇ 1 → 0.65 (Shorter and stockier)
+  - **Scale:** ⬇ 1 → 0.65 (Shorter and stockier) 
+  - **Abilities:**
 -  **When damaged,** it **gains speed II** alongside the strength effect.
 </details>
 </details>
