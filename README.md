@@ -765,6 +765,667 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 </details>
 </details>
 
+<details>
+<summary>Item Mobs</summary>
+  
+**Reworks done to items**, which is rendered as an entity, such as arrows, armorstand and many more.
+  
+<details>
+<summary>Arrows Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/arrow.png" width="16"/></summary>
+  
+## **Spectral Arrow (Regular Variant):**  
+  - **Rework:**  
+    - Deals **1 damage instead of 2**, but now it can **pierce through 10 entities**.
+    - **Breaks** upon hitting a wall or ground.
+    - **Redirectable** like a ghast fireball.
+</details>
+<details>
+<summary>Armorstand Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/armor_stand.png" width="16"/></summary>
+  
+## **ArmorStand (Regular Variant):**  
+  - **Rework:**  
+    - Spawns and crafted without stone base.
+    - Spawns naturally with arms.
+    - **Hit it and the very top of it's head** to **switch it's pose.**
+
+</details>
+</details>
+<details>
+  <summary>Hostile Mobs</summary>
+  <details>
+<summary>Blaze Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/blaze_spawn_egg.png" width="16"/></summary> 
+
+## **Blaze (Regular Variant):**  
+  - **Health:** ➡ 20 → 20  
+  - **Scale:** ⬇ 1 → 0.9  
+  - **Laser Attack:** ➡ 5 → 5 
+  - **Abilities:**  
+    - When on fire, **increase scale(1.15) and gain strength II.**
+    - Has chance to **set the ground on fire when hurt.**
+    - **Can attack with laser from a far distance**(imagine as if a guardian is riding the blaze)
+    - **💡Tips:**Avoid it's lasers by going around a block to reset the laser**
+
+</details>
+<details>
+<summary>Bogged Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/bogged_spawn_egg.png" width="16"/></summary>
+  
+## **Bogged (Regular Variant)**  
+- **Health:** ⬇ 20 → 14  
+- **Speed:** ⬆ 0.25 → 0.3  
+- **Attack Damage:** ⬆ 2 → 5  
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+  - Gives you poison I for 6 seconds if it damages you
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+
+</details>
+<details>
+<summary>Breeze Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/breeze_spawn_egg.png" width="16"/></summary>
+
+## **Breeze (Regular Variant):**  
+  - **Health:** ⬇ 20 → 15  
+  - **Abilities:**  
+    - Spawns with a **Wind Charge** floating above it, making it invulnurable. 
+    - **💡Tips:** You must deflect the breeze's wind charge projectile back onto it to destroy the **Wind Charge** above, making the breeze vulnerable.  
+    - Has a **Windcharged** effect, exploding with a burst of windcharge upon defeat.
+</details>
+<details>
+<summary>Creaking Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/creaking_spawn_egg.png" width="16"/></summary>
+
+## **Creaking(Regular Variant):**  
+  - **Speed:** ⬆ 0.3 → 0.44  
+  - **Attack Damage:** ⬆ 3 → 8  
+- **Follow Range:** ⬆ 16 → 32  
+  - **Abilities:**  
+    - Attacks now give blindness II and slowness II for 2 seconds, also **drain 5 xp** and spawn **many experience orbs**, **totaling to 4 xp**.
+</details>
+<details>
+<summary>Creeper Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/creeper_spawn_egg.png" width="16"/></summary>
+
+## **Creeper(Regular Variant):**  
+  - **Speed:** ⬇ 0.25 → 0.225  
+  - **Abilities:** 
+  - May spawn with a random negative effect. Upon explosion, leaves a lingering cloud of that effect.  
+
+## **Creeplings (Small Variant):**  
+  - **Health:** ⬇ 20 → 5  
+  - **Speed:** ⬆ 0.25 → 0.325  
+  - **Scale:** ⬇ 1 → 0.65  
+  - **Explosion Radius:** ⬇ 3 → 1  
+  - **Follow Range**: ⬇ 16 → 6  
+  - **Fuse:** ⬆ 1.5s → 1.25s  
+  - **Abilities:** 
+  - Spawns in groups of 3–5, making them more unpredictable and harder to avoid.  
+
+## **Nuclear Creeper (Large Variant):**  
+  - **Health:** ⬆ 20 → 50  
+  - **Speed:** ⬇ 0.25 → 0.15  
+  - **Scale:** ⬆ 1 → 1.5  
+  - **Explosion Radius:** ⬆ 3 → 7  
+  - **Fuse:** ⬇ 1.5s → 8s  
+  - **Abilities:** 
+  - Emits Wither, Poison, and Blindness upon ignition. Automatically ignites if a player is within a 7-block radius.
+</details>
+<details>
+<summary>Elder Guardian Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/elder_guardian_spawn_egg.png" width="16"/></summary>
+
+## **Elder Guardian(Regular Variant):**
+
+  - **Health:** ⬆ 80 → 100  
+  - **Scale:** ⬆ 1 → 1.15  
+  - **Knockback Resistance:** ⬆ 0 → 10  
+
+  - **Abilities:**  
+   - **Now it can attack with 3 seperate laser**
+   - **35% chance to regenerate** when hurt.  
+   - **20% chance to spawn a Baby Guardian** when hurt.  
+   - **Below 50% health**, strikes all entities with lightning bolt within a **5-block radius** and applies **Weakness I for 1 minute** to them.  
+   - **Upon defeat, spawns an Elder Guardian Soul**, which is a small elder guardian that sticks onto a player's head, which ** blocks vision, and inflicts Mining Fatigue III** when to the player.
+   - **💡Tips:** Only attack with heavy hit, since the elder guardian can use it's abilities(basicly spawns baby guardian) when it is hurt, also try to focus on avoiding the attacks.
+
+### **Baby Guardian(Summoned Mob):** 
+  - **Health:** ⬇ 30 → 5  
+  - **Scale:** ⬇ 1 → 0.5  
+
+### **Elder Guardian soul(Summoned Mob):**
+  - **Health:** ⬇ 80 → 20  
+  - **Scale:** ⬇ 1 → 0.2
+</details>
+<details>
+<summary>Endermite Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/endermite_spawn_egg.png" width="16"/></summary>
+  
+## **Endermite (Now can spawn naturally in the end):** 
+  - **Health:** ⬆ 8 → 20  
+  - **Attack Damage:** ⬆ 1 → 4  
+  - **Step Height:** ⬆ 0.6 → 5 (Can now climb over tall obstacles)  
+  - **Speed:** ⬇ 0.25 → 0.2  
+  - **Scale:** ⬆ 1 → 1.5
+  - **Fall Multiplier:** ⬇ 1 → 0 (Ignores fall damage)  
+- **Abilities:**  
+    - **Ride nearby entities** within a **5-block radius** (except other Endermites).  
+    - **Upon death, summons 1 cloned Endermite**.  
+    - **When hurt, has a 25% chance to summon 1 Cloned Endermite**.
+    - Give ridden enderman **strength I and resistance I**.
+    - **💡Tips:** Attack only with heavy hits, since it might spawn a cloned endermite when hurt Make sure to trap the hosted enderman who has more buffs now.
+
+
+### **Cloned Endermite (Summoned Mob):** 
+  - **Health:** ⬇ 8 → 5  
+  - **Attack Damage:** ⬆ 1 → 1.5  
+  - **Speed:** ⬆ 0.25 → 0.325  
+  - **Scale:** ⬆ 1 → 1
+
+</details>
+<details>
+<summary>Evoker Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/evoker_spawn_egg.png" width="16"/></summary>
+
+##  **Evoker (Regular Variant):**  
+  - **Health:** ⬆ 24 → 64  
+  - **Speed:** ⬇ 0.5 → 0.4  
+  - **Follow Range:** ⬆ 10 → 48  
+
+ - **Abilities:**  
+    - **Immune to fall damage**.  
+    - **Immune to fire**.  
+    - **Spawns riding on a Baby Ravager**.  
+    - **Ability when health is below 24 hp:**  
+      - Summon 2 mini resurrected pillagers and a vindicator, they will glow but be invisible, the vindicator won’t have any weapons and pillagers only an unenchanted crossbow.
+      - Have 50% to be magnified or diminished, will go invisible for 5 seconds first.
+         - When magnified, makes scale into 2,  speed into 0.2, knockback resistance into 0.5, and his health is restored back to full health.
+         - When diminished, makes scale into 0.65, and speed into 0.6. Gains instant health II.
+    - **Totem Activation (Below 8 HP):**  
+      - Activates **Totem of Undying**, granting **Regeneration III (15s)** and **Absorption V**.  
+      - Still **drops the totem** upon death and **summons evoker fangs** around nearby entities(including items).
+      - **💡Tips:** Kill the baby ravager first, since the ravager is a **major threat**. When you **defeated the evoker**, **run away** as soon as you hear it's laugh. Fight him at a safe distance and kill his minions first.
+
+### **Baby Ravager (Summoned Mob):**  
+  - **Health:** ⬇ 150 → 75  
+  - **Attack Damage:** ⬇ 10 → 5  
+  - **Speed:** ⬆ 0.3 → 0.45  
+  - **Scale:** ⬇ 1.3 → 0.75  
+
+### **Resurrected pillager (Summoned Mob):**  
+  - **Health:** ⬇ 24 → 16  
+  - **Scale:** ⬇ 1 → 0.75  
+
+### **Resurrected vindicator (Summoned Mob):**  
+  - **Health:** ⬇ 24 → 16  
+ - **Attack Damage:** ⬇ 8 → 6  
+  - **Speed:** ⬆ 0.35 → 0.45 
+  - **Scale:** ⬇ 1 → 0.75  
+
+
+</details>
+<details>
+<summary>Ghast Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/ghast_spawn_egg.png" width="16"/></summary>
+
+## **Ghast (Regular Variant):**  
+  - **Health:** ⬆ 10 → 12  
+  - **Abilities:**  
+    - **Upon death, spawns a Ghast’s Soul** that will **attack the player**.  
+    - The **Ghast’s Soul becomes passive** if in the **Overworld**.  
+
+### **Ghast’s Soul (Summoned Mob):**  
+  - **Health:** ⬆ 14 → 16  
+  - **Attack Damage:** ➡ 6 (Unchanged)  
+  - **Lifetime:** **60 seconds (1 minute)** before disappearing.  
+  - **Leaves behind a trail of soul particles.**  
+
+</details>
+<details>
+<summary>Guardian Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/guardian_spawn_egg.png" width="16"/></summary>
+
+## **Guardian (Regular Variant):**  
+  - **Health:** ⬇ 30 → 20  
+  - **Scale:** ⬆ 1 → 1.15  
+  - **Abilities:**  
+    - **15% chance to regenerate** when hurt.  
+    - **Upon defeat, deals 1.5 hearts of damage** to **all entities** within a **3-block radius**.
+
+</details>
+<details>
+<summary>Hoglin Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/hoglin_spawn_egg.png" width="16"/></summary>
+
+## **Hoglin (Regular Variant):**  
+  - **Health:** ⬆ 40 → 50  
+  - **Speed:** ⬇ 0.3 → 0.25  
+  - **Attack Damage:** ⬇ 6 → 4  
+  - **Scale:** ⬆ 1 → 1.25  
+  - **Attack Knockback:** ⬆ 0 → 2  
+  - **Knockback Resistance:** ⬆ 0 → 0.5 
+  - **Abilities:**  
+    - **When hit, gains Speed I for 20 seconds.**
+    - **💡Tips:** Attack from a safe distance, to avoid the hoglin's ability.
+
+</details>
+<details>
+<summary>Husk Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/husk_spawn_egg.png" width="16"/></summary>
+  
+## **Husk (Regular Variant)**  
+- **Health:** ⬆ 20 → 28  
+- **Speed:** ⬇ 0.23 → 0.2  
+- **Attack Damage:** ⬇ 3 → 2 
+- **Base Armor:** ⬆ 2 → 6  
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
+**Abilities:**  
+- **Reverses all negative effects** it receives:  
+  - **Weakness → Strength**  
+  - **Slowness → Speed**  
+  - **Poison → Regeneration**  
+- **The Positive effects are always Level I** and last for **1 minute**.
+
+
+## **Giant Husk (2% to spawn from a regular husk)**  
+- **Health:** ⬆ 20 → 78  
+- **Speed:** ⬇ 0.23 → 0.225  
+- **Attack Damage:** ➡ 2  
+- **Attack Knockback:** ⬆ 0 → 1 
+- **Knockback Resistance:** ⬆ 0 → 0.75 
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
+**Abilities:**  
+- **Reverses all negative effects** it receives:  
+  - **Weakness → Strength**  
+  - **Slowness → Speed**  
+  - **Poison → Regeneration**  
+- **The Positive effects are always Level I** and last for **1 minute**.
+- Permanent **regeneration I**
+
+</details>
+<details>
+<summary>Illusioner Rework(spawn naturally) <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/bow.png" width="16"/></summary>
+
+## **Illusioner(Has a 50% to replace an evoker):**  
+  - **Health:** ⬇ 32 → 24  
+  - **Burning time:** ⬆ 1 → 1.5  (burn 50% longer)
+  - **Speed:** ⬇ 0.5 → 0.35  
+  - **Equipment:** Now wields a **bow enchanted with Punch II and Flame**  
+  - **Abilities:**  
+    - Always spawns with **2 Killer Rabbits.**  
+    - Upon defeat, **summons 3 vexes.**   
+  - **💡Tips:** Focus on killing the illusioner first(you can defeat it easier using fire), and avoid hurting any killer rabbits since they move extremely fast when damaged.
+  
+### **Killer Rabbit (Summoned Mob):**  
+  - **Health:** ⬆ 3 → 30  
+  - **Attack Damage:** ⬆ 6  
+  - **Speed:** ⬆ 0.3 → 0.4 (Still slow though)
+  - **Scale:** ⬆ 1 → 1.5 (Larger than normal)  
+
+</details>
+<details>
+<summary>Magma Cube Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/magma_cube_spawn_egg.png" width="16"/></summary>
+
+## **Magma Cube (Regular Variant)**  
+- **Health:** Variable (Based on size)  
+- **Speed:** ⬆ 0.7 → 1.05  
+- **Jump Strength:** ⬆ 0.42 → 0.75  
+- **Attack Damage:** Variable (Based on size)  
+- **Attack Knockback:** ⬆ 0 → 1  
+
+- **Abilities:**  
+  - Magma Cube can now **stack on top of each other**, forming towering, there’s no limit to how high they can stack, making them even more dangerous in swarms.
+  - Magma Cube now deflect projectiles
+
+
+</details>
+<details>
+<summary>Phantom Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/phantom_spawn_egg.png" width="16"/></summary>
+
+## **Phantom:**  
+  - **Health:** ⬆ 20 → 25  
+  - **Attack Damage:** ⬇ 2 → 1  
+  - **Spawning:** Now spawns in **The End**, replacing some Endermen.  
+  - **Abilities:**  
+    - **Picks up hurt players** unless they crouch.  
+    - **Spawns in different sizes** (some larger, some smaller).  
+    - **Carries a potion (negative effect) disguised as an Ender Pearl** and **breaks it upon grabbing a player.**  
+    - **Gains Invisibility for 1 seconds** when hurt.  
+    - **💡Tips:** Always crouch when fighting a phantom.
+
+</details>
+<details>
+<summary>Piglin Brute Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/piglin_brute_spawn_egg.png" width="16"/></summary>
+  
+## **Piglin Brute (Found in Bastion)**  
+  - **Health:** ⬇ 50 → 40  
+  - **Attack Damage:** ➡ 13   
+  - **Speed:** ⬇ 0.35 → 0.25  
+- **Abilities(One of these three will activate when health is below 20):**  
+  - **Smoke Bomb:** Can drop a **smoke bomb** that obscures vision and grants **Speed II** for a short duration.  
+  - Gains **Strength I & Speed I** and **scale increase from 0.9 → 1.25** when enraged.   
+  - **Summon 2 Royal Piglins** to aid in battle.  
+
+</details>
+<details>
+<summary>Pillager Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/pillager_spawn_egg.png" width="16"/></summary>
+  
+## **Pillager (Regular Variant)**  
+- **Health:** ➡ 24  
+- **Speed:** ⬇ 0.35 → 0.3  
+- **Offhand Items:**  
+  - Can carry one of the following items in their offhand(up to 3 quantities of each item):  
+    - **Fireworks** (Explosive damage)  
+    - **Poison-tipped arrows**  
+    - **Spectral arrows**  
+    - **Instant damage arrows**  
+- **Abilities:**  
+  - When health drops **below 12**, the pillager cast a spell to gain **invisibility for 5 seconds** and **permanent speed I**.
+
+## **Pillager Leader (Pillager with banner)**  
+- **Health:** ⬆ 24  → 32
+- **Scale:** ⬆ 1 → 1.15
+- **Knockback resistance:** ⬆ 0 → 1
+- **Speed:** ⬇ 0.35 → 0.1 
+- Have a bone on it’s head, and a "super" enchanted crossbow.
+- **Abilities:**  
+  - Spawns with a killer rabbit, just like the illusioner.
+
+### **Killer Rabbit (Summoned Mob):**  
+  - **Health:** ⬆ 3 → 30  
+  - **Attack Damage:** ⬆ 0.5  
+  - **Speed:** ⬆ 0.3 → 0.4 (Still slow though)
+  - **Scale:** ⬆ 1 → 1.5 (Larger than normal)  
+
+</details>
+<details>
+<summary>Ravager Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/ravager_spawn_egg.png" width="16"/></summary>
+  
+## **Ravager (Regular Variant)**  
+- **Health:** ⬆ 100 → 150  
+- **Attack Damage:** ⬇ 12 → 10  
+- **Attack Knockback:** ⬆ 1.5 → 2  
+- **Speed:** ⬆ 0.3 → 0.4  
+- **Scale:** ⬆ 1 → 1.3  
+- **Abilities:**  
+  - When at **full health**, gains **Speed II** and **Strength I**.  
+  - When above **100 HP**, taking damage causes **Slowness X** and **Weakness X** for **1 second**.  
+  - The **first hit** taken gives it **Slowness & Weakness X** for **3 seconds**.  
+  - When below **100 HP**, **it will unleash a roars**, affecting all **entities within 10 blocks** with **Weakness & Slowness III** for **5 seconds**.  
+  - When enraged, **grows bigger** (**Scale: 1.3 → 1.45**) and gains **permanent Speed I**.
+  - **💡Tips:** Hurt the ravager first when it's at full health, then defeat the ravager by entering a small enterance, and making sure it can't get to you.
+
+</details>
+<details>
+<summary>Shulker Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/shulker_spawn_egg.png" width="16"/></summary>
+  
+## **Shulker (Regular Variant)**  
+- **Health:** ⬆ 30 → 48  
+- **Abilities:**  
+  - When health drops below **24**, it will **burst out 5-10 special Shulker bullets**. These bullets do not explode but **blocked player attacks**, forcing them to hit the bullets first, players must have a high cps to defeat shulker. The player gains **Levitation** while the bullets are active.  
+  - Gains **Invulnerability**, immune to any kind of damage **when it is hiding.**
+  
+  - The **Shulker's color determines its unique ability**:  
+  - White → **Summons a phantom** on death. 
+  - Orange → **Spawns a fire resistance lingering potion** on death.  
+  - Magenta → **Spawns an Endermite** when defeated.  
+  - Light Blue → **Spawns a slowness lingering potion** on death.  
+  - Yellow → **Summons a bee** on death.   
+  - Lime → **Spawns 3-5 Creeplings** on death.  
+  - Pink → **Summons a pig** on death.  
+  - Gray → **Spawns a weakness lingering potion** on death. 
+  - Light Gray → Summons **4 small skeleton**(same stats as mini skeleton) on defeat.  
+  - Cyan → **Sets water blocks** in the area when defeated.  
+  - Purple → **Spawns an instant damage splash potion** on death.  
+  - Blue → **Summons a Pufferfish** when defeated.  
+  - Brown → Has permanent **Wind Charged effect**.  
+  - Green → **Summons a lingering cloud of Poison** when defeated.  
+  - Red → **Sets fire** around the area when defeated.  
+  - Black → Summons **2 small wither skeleton**(same stats as mini skeleton) on defeat.  
+  - **💡Tips:** Always remember to click as fast as you can when the special bullets are on your view.
+
+</details>
+<details>
+<summary>Silverfish Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/silverfish_spawn_egg.png" width="16"/></summary>
+
+## **Silverfish (Regular Variant)**  
+- **Health:** ⬆ 8 → 16 
+- **Attack Damage:** ⬆ 1 → 2  
+- **Step Height:** ⬆ 0.6 → 3 (Can now counter players building up)  
+- **Speed:** ⬆ 0.25 → 0.35  
+- **Scale:** ⬆ 1 → 1.5  
+- **Follow Range** ⬆ 16 → 32
+- **Abilities:**  
+  - **Steals nearby items** within a **5-block radius**.  
+  - **Make hostile entities in a 3 block ride them**.  
+  - **💡Tips:** Don't build up, instead attack from safe distance.
+
+</details>
+<details>
+<summary>Skeleton Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/skeleton_spawn_egg.png" width="16"/></summary>
+  
+## **Skeleton (Regular Variant)**  
+- **Health:** ⬇ 20 → 16  
+- **Speed:** ⬆ 0.25 → 0.325  
+- **Attack Damage:** ⬆ 2 → 4  
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+  - Can spawn with a **creeper skull** or an **enderman skull**, though both have no special effects.
+
+## **Skeleton with Zombie Head (Rare Variant)**  
+
+- **Health:** ⬆ 16 → 24  
+- **Speed:** ⬇ 0.25 → 0.2  
+- **Attack Damage:** ⬆ 2 → 5  
+- **Armor:** ⬆ 0 → 6  
+- **Knockback Resistance:** 0.25  
+- **Abilities:**  
+  - **Fully immune to getting burned in daylight**.  
+  - **Still wields bows or melee weapons like regular skeletons**.
+
+
+## **Skeleton with Piglin Head (Uncommon Variant & only in the nether)**  
+
+- **Abilities:**  
+  - **Fully immune to getting burned in daylight**. 
+
+
+</details>
+<details>
+<summary>Slime Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/slime_spawn_egg.png" width="16"/></summary>
+  
+## **Slime (Regular Variant)**  
+- **Health:** Variable (Based on size)  
+- **Speed:** ⬆ 0.7 → 1.05  
+- **Jump Strength:** ⬆ 0.35 → 0.75 Variable  
+- **Attack Damage:** Variable (Based on size)  
+- **Attack Knockback:** ⬆ 0 → 1  
+
+- **Abilities:**  
+  - Slimes can now **stack on top of each other**, forming towering, there’s no limit to how high they can stack, making them even more dangerous in swarms.
+  - Slimes now deflect projectiles.
+
+
+</details>
+<details>
+<summary>Stray Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/stray_spawn_egg.png" width="16"/></summary>
+  
+## **Stray (Regular Variant)**  
+- **Health:** ⬇ 20 → 14  
+- **Speed:** ⬆ 0.25 → 0.35  
+- **Attack Damage:** ⬆ 2 → 3  
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+  - Gives you slowness I for 6 seconds if it damages you
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+
+</details>
+<details>
+<summary>Vex Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/vex_spawn_egg.png" width="16"/></summary>
+  
+## **Vex (Regular Variant)**  
+- **Health:** ⬆ 14 → 16  
+- **Attack:** ⬇ 6 → 3  
+- **Scale:** ⬆ 1 → 1.25  
+- **Lifetime:** ⬆ **120 seconds / 2 minutes**  
+**Abilities:**  
+- Has a **25% chance** to spawn with a **Vex Clone**.  
+
+### **Vex Clone (Summoned Mob)**  
+- **Health:** ⬆ 14 → 16  
+- **Attack:** ⬆ 6 → 8   
+- **Scale:** ⬆ 1 → 1.25  
+- **Lifetime:** ⬇ **15 seconds**  
+- **Always invisible but has a glowing outline**.  
+
+</details>
+<details>
+<summary>Vindicator Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/vindicator_spawn_egg.png" width="16"/></summary>
+  
+## **Vindicator (Regular Variant)**  
+- **Health:** ➡ 24  
+- **Speed:** ⬇ 0.35 → 0.275  
+- **Attack:** ⬇ 13 → 8  
+**Weapons:**  
+- Can wield a(n) **Stone Sword, Stone Axe, Iron Sword, Iron Axe, Diamond Axe or Diamond Sword (and Netherite axe, about 1 in a million).**  
+- Weapons **can be enchanted** with various enchantments.  
+**Abilities:**  
+- When health is **below 12**, he will cast a spell to become **magnify** (**Scale: ⬆ 1 → 1.15, Gains Strength I**).
+- Has a 5% chance to fail when casting the spell, causing him to **diminish** instead(**Scale:⬇ 1 → 0.75, Gains Weakness I**).
+
+## **Vindicator Leader(Vindicator with banners)**  
+- **Health:** ➡ 24  
+- **Scale:** ⬆ 1 → 1.25
+- **Armor:** ⬆ 0 → 6
+- **Armor Toughness:** ⬆ 0 → 3
+- **Speed:** ⬇ 0.35 → 0.275  
+- **Attack:** ⬇ 13 → 8  
+**Weapons:**  
+- Can wield a(n) **Stone Sword, Stone Axe, Iron Sword, Iron Axe, Diamond Axe or Diamond Sword (and Netherite axe, about 1 in a million).**  
+- Have a bone on his mouth
+**Abilities:**  
+- When health is **below 12**, it cast a spell to become **magnify** (**Scale: ⬆ 1.251 → 1.4, Gains Strength I**).
+- When defeated, respawn as a resurrected vindicator.
+
+  ### **Resurrected vindicator (Summoned Mob):**  
+  - **Health:** ⬇ 24 → 16  
+ - **Attack Damage:** ⬇ 8 → 6  
+  - **Speed:** ⬆ 0.35 → 0.45 
+  - **Scale:** ⬇ 1 → 0.75  
+
+
+</details>
+<details>
+<summary>Warden Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/warden_spawn_egg.png" width="16"/></summary>
+  
+## **Warden (Regular Variant)**  
+- **Health:** ⬆ 500 → 750  
+- **Scale:** ⬆ 1 → 1.5  
+- **Follow Range:** ⬇ 16 → 12  
+**Abilities:**  
+ - Attacks now drain 15 xp and spawn many experience orbs, totaling to 10 xp. 
+- **On death**, it **spawns 2 Baby Wardens**, spawns many xp(total 75 xp), and **creates a sculk patch**.  
+- **Takes heavy damage(total 200) and gets stunned for 20 seconds** if a player plays a **music box within a 20-block radius**. 
+- **💡Tips:** Use **a jukebox** as an escape **opportunity** if you accidentally summon the warden.
+
+### **Baby Warden (Spawned Mob)**  
+- **Health:** ⬇ 500 → 50  
+- **Attack Damage:** ⬇ 30 → 10  
+- **Scale:** ⬇ 1 → 0.5  
+
+</details>
+<details>
+<summary>Witch Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/witch_spawn_egg.png" width="16"/></summary>
+  
+## **Witch (Regular Variant)**  
+- **Health:** ⬆ 26 → 30  
+- **Knockback Resistance:** ⬆ 0 → 0.5  
+- **Follow Range:** ⬆ 16 → 32  
+**Abilities:**  
+- **Spawns 4 Mini Skeletons** once her health **drops below 10 hp**.  
+  - If she regenerates **above 25 hp**, the effect resets, allowing her to spawn Mini Skeletons again when her health drops.  
+- **Upon defeat,** a **Splash Potion of Harming II** is dropped at her last position.  
+
+### **Mini Skeleton (Summoned Mob)**  
+- **Health:** 5  
+- **Attack Damage:** 1.5  
+- **Speed:** ⬆ 0.25 → 0.35  
+- **Scale:** ⬇ 1 → 0.65  
+
+</details>
+<details>
+<summary>Wither Skeleton Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/wither_skeleton_spawn_egg.png" width="16"/></summary>
+  
+## **Wither Skeleton (Regular Variant)**  
+- **Health:** ⬇ 20 → 18  
+- **Speed:** ⬆ 0.25 → 0.275  
+- **Attack Damage:** ⬆ 2 → 6  
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+
+</details>
+<details>
+<summary>Zombie Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/zombie_spawn_egg.png" width="16"/></summary>
+  
+## **Zombie (Regular Variant)**  
+- **Health:** ⬆ 20 → 24  
+- **Speed:** ⬇ 0.23 → 0.225  
+- **Attack Damage:** ➡ 3  
+- **Base Armor:** ⬆ 2 → 4  
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
+**Abilities:**  
+- **Reverses all negative effects** it receives:  
+  - **Weakness → Strength**  
+  - **Slowness → Speed**  
+  - **Poison → Regeneration**  
+- **The Positive effects are always Level I** and last for **1 minute**.
+
+
+## **Giant Zombie (2% to spawn from a regular zombie)**  
+- **Health:** ⬆ 20 → 72  
+- **Speed:** ⬇ 0.23 → 0.225  
+- **Attack Damage:** ➡ 3  
+- **Attack Knockback:** ⬆ 0 → 1 
+- **Knockback Resistance:** ⬆ 0 → 0.75 
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
+**Abilities:**  
+- **Reverses all negative effects** it receives:  
+  - **Weakness → Strength**  
+  - **Slowness → Speed**  
+  - **Poison → Regeneration**  
+- **The Positive effects are always Level I** and last for **1 minute**.
+- Permanent **regeneration I**
+- **Splits** into 2 **regular zombies** upon defeat.
+
+</details>
+<details>
+<summary>Zombie Villager Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/zombie_villager_spawn_egg.png" width="16"/></summary>
+  
+## **Zombie Villager(Regular Variant)**  
+- **Health:** ➡ 20 → 20
+- **Scale:**  ⬇ 1 → 0.8 - 1.25
+- **Burning Time:** ⬇ 0
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
+**Abilities:**  
+- **Resistance to burning in day time** 
+- When **health is below 10**, gain permanent **weakness I**.
+
+
+</details>
+
+</details>
+
 
 <details>
 <summary>Boss Mobs</summary>
