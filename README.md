@@ -352,11 +352,11 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 <summary>Wandering Trader Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/wandering_trader_spawn_egg.png" width="16"/></summary>
   
 ## **Wandering Trader (Regular Variant)**  
-**Abilities:**  
+**Reworks:**  
 - Has a chance to **sell Mob Plushies**, which are small decorative items representing different mobs or characters.  
 - When health is **below 10**, it drops a **Speed II Potion**, allowing it to escape danger.
 - Can now **sell chest containing loot** from various structures, and even their own **loot crate.**
-- Now can be **located through the locator bar**, represented with a bowtie icon.
+- Now can be **located through the locator bar**, represented with a bowtie icon <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/gui/sprites/hud/locator_bar_dot/bowtie.png" width="16"/>.
 
 </details>
 </details>
@@ -767,7 +767,9 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 
 <details>
 <summary>Item Mobs</summary>
-  
+
+## **Reworks done to items**
+
 **Reworks done to items**, which is rendered as an entity, such as arrows, armorstand and many more.
   
 <details>
@@ -792,6 +794,13 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 </details>
 <details>
   <summary>Hostile Mobs</summary>
+  
+## **Reworks done to hostile mobs**
+
+**Reworks done to hostile mobs** may enchance their **defense/offense** and will change the way **how you approach them.**
+
+I **recomended** you to see **all the reworks** since most of these reworks are **massive changes** done to the mobs(But if you like surprises, I won't be the judge for that:)
+
   <details>
 <summary>Blaze Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/blaze_spawn_egg.png" width="16"/></summary> 
 
@@ -1430,7 +1439,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 <details>
 <summary>Boss Mobs</summary>
 <details>
-<summary>Wither Rework - Hell Wither</summary>
+<summary>Wither Rework - Hell Wither <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/nether_star.png" width="16"/></summary>
   
 # Hell Wither
 
