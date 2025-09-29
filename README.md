@@ -338,10 +338,10 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 
 | Item Wanted | Item Given | Price Multiplier | Villager XP |
 |-------------|------------|------------------|-------------|
-| 10 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Helmet](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_helmet.png) Masterwork Copper Helmet | 100 | 5 |
-| 16 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Chestplate](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_chestplate.png) Masterwork Copper Chestplate | 100 | 5 |
-| 13 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Leggings](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_leggings.png) Masterwork Copper Leggings | 100 | 5 |
-| 8 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Boots](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_boots.png) Masterwork Copper Boots | 100 | 5 |
+| 10 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Helmet](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_helmet.png) **Masterwork** Copper Helmet | 100 | 5 |
+| 16 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Chestplate](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_chestplate.png) **Masterwork** Copper Chestplate | 100 | 5 |
+| 13 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Leggings](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_leggings.png) **Masterwork** Copper Leggings | 100 | 5 |
+| 8 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Boots](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_boots.png) **Masterwork** Copper Boots | 100 | 5 |
 
 
 
