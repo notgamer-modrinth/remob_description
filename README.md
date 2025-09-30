@@ -333,9 +333,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 | 8 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Horse Armor](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_horse_armor.png) Copper Horse Armor | 0.2 | 3 |
 | 12 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Iron Horse Armor](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/iron_horse_armor.png) Iron Horse Armor | 0.2 | 3 |
 | 15 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Golden Horse Armor](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/golden_horse_armor.png) Golden Horse Armor | 0.2 | 3 |
-
-
-### Journeyman – Extra Slot (25% Chance for each item)
+### Apprentice – Extra Slot (25% Chance for each item)
 
 | Item Wanted | Item Given | Price Multiplier | Villager XP |
 |-------------|------------|------------------|-------------|
@@ -343,6 +341,16 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 | 16 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Chestplate](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_chestplate.png) **Masterwork** Copper Chestplate | 100 | 5 |
 | 13 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Leggings](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_leggings.png) **Masterwork** Copper Leggings | 100 | 5 |
 | 8 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Boots](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/copper_boots.png) **Masterwork** Copper Boots | 100 | 5 |
+
+
+### Journeyman – Extra Slot (25% Chance for each item)
+
+| Item Wanted | Item Given | Price Multiplier | Villager XP |
+|-------------|------------|------------------|-------------|
+| 10 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Chainmail Helmet](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/chainmail_helmet.png) **Masterwork** Chainmail Helmet | 100 | 5 |
+| 16 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Chainmail Chestplate](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/chainmail_chestplate.png) **Masterwork** Chainmail Chestplate | 100 | 5 |
+| 13 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Leggings](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/chainmail_leggings.png) **Masterwork** Chainmail Leggings | 100 | 5 |
+| 8 × ![Emerald](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/emerald.png) Emerald | ![Copper Boots](https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/chainmail_boots.png) **Masterwork** Chainmail Boots | 100 | 5 |
 
 
 
