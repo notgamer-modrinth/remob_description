@@ -6,7 +6,8 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 ## Mobs Rework
 
 <details>
-<summary>Passive Mobs</summary>
+  <summary><strong>Passive Mobs</strong></summary>
+
 
 ## **Reworks done to passive mobs**
 
@@ -362,7 +363,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 </details>
 
 <details>
-<summary>Neutral Mobs</summary>
+<summary><strong>Neutral Mobs</strong></summary>
 
 ## **Reworks done to neutral mobs**
 
@@ -766,34 +767,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 </details>
 
 <details>
-<summary>Item Mobs</summary>
-
-## **Reworks done to items**
-
-**Reworks done to items**, which is rendered as an entity, such as arrows, armorstand and many more.
-  
-<details>
-<summary>Arrows Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/arrow.png" width="16"/></summary>
-  
-## **Spectral Arrow (Regular Variant):**  
-  - **Rework:**  
-    - Deals **1 damage instead of 2**, but now it can **pierce through 10 entities**.
-    - **Breaks** upon hitting a wall or ground.
-    - **Redirectable** like a ghast fireball.
-</details>
-<details>
-<summary>Armorstand Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/armor_stand.png" width="16"/></summary>
-  
-## **ArmorStand (Regular Variant):**  
-  - **Rework:**  
-    - Spawns and crafted without stone base.
-    - Spawns naturally with arms.
-    - **Hit it and the very top of it's head** to **switch it's pose.**
-
-</details>
-</details>
-<details>
-  <summary>Hostile Mobs</summary>
+  <summary><strong>Hostile Mobs</strong></summary>
   
 ## **Reworks done to hostile mobs**
 
@@ -1432,12 +1406,37 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 
 
 </details>
+</details>
+<details>
+<summary><strong>Item Mobs</strong></summary>
+
+## **Reworks done to items**
+
+**Reworks done to items**, which is rendered as an entity, such as arrows, armorstand and many more.
+  
+<details>
+<summary>Arrows Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/arrow.png" width="16"/></summary>
+  
+## **Spectral Arrow (Regular Variant):**  
+  - **Rework:**  
+    - Deals **1 damage instead of 2**, but now it can **pierce through 10 entities**.
+    - **Breaks** upon hitting a wall or ground.
+    - **Redirectable** like a ghast fireball.
+</details>
+<details>
+<summary>Armorstand Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/armor_stand.png" width="16"/></summary>
+  
+## **ArmorStand (Regular Variant):**  
+  - **Rework:**  
+    - Spawns and crafted without stone base.
+    - Spawns naturally with arms.
+    - **Hit it and the very top of it's head** to **switch it's pose.**
 
 </details>
-
+</details>
 
 <details>
-<summary>Boss Mobs</summary>
+<summary><strong>Boss Mobs</strong></summary>
 <details>
 <summary>Wither Rework - Hell Wither <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/nether_star.png" width="16"/></summary>
   
@@ -1473,7 +1472,7 @@ Hell Wither is an upgraded version of a regular wither with more health, **Makin
 
 
 <details>
-<summary>New mobs</summary>
+<summary><strong>New Mobs</strong></summary>
   
 ## New Mobs
 Introducing **"New Mobs"** to fill in the gaps left by existing ones, adding unique roles and strategic depth to gameplay. All the **guides on how to beat**, and **what it can do** is already listed below
