@@ -1153,10 +1153,10 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - White → **Summons a phantom** on death. 
   - Orange → **Spawns a fire resistance lingering potion** on death.  
   - Magenta → **Spawns an Endermite** when defeated.  
-  - Light Blue → **Spawns a slowness lingering potion** on death.  
-  - Yellow → **Summons a bee** on death.   
-  - Lime → **Spawns 3-5 Creeplings** on death.  
-  - Pink → **Summons a pig** on death.  
+  - Light Blue → **Spawns a slowness lingering potion** or **a glow squid** on death.  
+  - Yellow → **Summons a blaze** or **a bee** on death.   
+  - Lime → **Spawns 3-5 Creeplings** or **a turtle** on death.  
+  - Pink → **Summons a zombified piglin** or **a zoglin** or **a pig** on death.  
   - Gray → **Spawns a weakness lingering potion** on death. 
   - Light Gray → Summons **4 small skeleton**(same stats as mini skeleton) on defeat.  
   - Cyan → **Sets water blocks** in the area when defeated.  
@@ -1164,7 +1164,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - Blue → **Summons a Pufferfish** when defeated.  
   - Brown → Has permanent **Wind Charged effect**.  
   - Green → **Summons a lingering cloud of Poison** when defeated.  
-  - Red → **Sets fire** around the area when defeated.  
+  - Red → **Spawns a magma cube of a random size** or **a mooshroom** on death.
   - Black → Summons **2 small wither skeleton**(same stats as mini skeleton) on defeat.  
   - **💡Tips:** Always remember to click as fast as you can when the special bullets are on your view.
 
