@@ -1148,15 +1148,19 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Abilities:**  
   - When health drops below **24**, it will **burst out 5-10 special Shulker bullets**. These bullets do not explode but **blocked player attacks**, forcing them to hit the bullets first, players must have a high cps to defeat shulker. The player gains **Levitation** while the bullets are active.  
   - Gains **Invulnerability**, immune to any kind of damage **when it is hiding.**
+  - Always give a **'surprise' on death**, mostly **negative**.(Similar to lucky block)
+
   
-  - The **Shulker's color determines its unique ability**:  
-  - White → **Summons a phantom** on death. 
+<details>
+<summary><b>Click here to reveal all the 'surprise' according to the shulker's color</b> <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/shulker_shell.png" width="16"/></summary>
+  
+  - White → **Summons a ghast** or **a chicken** on death. 
   - Orange → **Spawns a fire resistance lingering potion** on death.  
   - Magenta → **Spawns an Endermite** when defeated.  
   - Light Blue → **Spawns a slowness lingering potion** or **a glow squid** on death.  
   - Yellow → **Summons a blaze** or **a bee** on death.   
   - Lime → **Spawns 3-5 Creeplings** or **a turtle** on death.  
-  - Pink → **Summons a zombified piglin** or **a zoglin** or **a pig** on death.  
+  - Pink → **Summons a zombified piglin** or **a baby zoglin** or **a pig** on death.  
   - Gray → **Spawns a weakness lingering potion** on death. 
   - Light Gray → Summons **4 small skeleton**(same stats as mini skeleton) on defeat.  
   - Cyan → **Sets water blocks** in the area when defeated.  
@@ -1166,6 +1170,8 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - Green → **Summons a lingering cloud of Poison** when defeated.  
   - Red → **Spawns a magma cube of a random size** or **a mooshroom** on death.
   - Black → Summons **2 small wither skeleton**(same stats as mini skeleton) on defeat.  
+</details>
+
   - **💡Tips:** Always remember to click as fast as you can when the special bullets are on your view.
 
 </details>
