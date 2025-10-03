@@ -449,7 +449,8 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 - **Health:** ⬆ 20 → 72  
 - **Speed:** ⬇ 0.23 → 0.225  
 - **Attack Damage:** ➡ 2  
-- **Attack Knockback:** ⬆ 0 → 1 
+- **Attack Knockback:** ⬆ 0 → 1  
+- **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
 - **Knockback Resistance:** ⬆ 0 → 0.75 
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
 **Abilities:**  
@@ -659,7 +660,8 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 
 ## **Giant Piglin:**  
   - **Health:** ⬆ 16 → 150  
-  - **Attack Damage:** ⬆ 5 → 10  
+  - **Attack Damage:** ⬆ 5 → 10   
+  - **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
   - **Speed:** ⬇ 0.35 → 0.25  
   - **Scale:** ⬇ 1 → 2  
   - **Knockback Resistance:** **0.75**  
@@ -1016,6 +1018,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Speed:** ⬇ 0.23 → 0.225  
 - **Attack Damage:** ➡ 2  
 - **Attack Knockback:** ⬆ 0 → 1 
+- **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
 - **Knockback Resistance:** ⬆ 0 → 0.75 
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
 **Abilities:**  
@@ -1109,7 +1112,6 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 ## **Pillager Leader (Pillager with banner)**  
 - **Health:** ⬆ 24  → 32
 - **Scale:** ⬆ 1 → 1.15
-- **Knockback resistance:** ⬆ 0 → 1
 - **Speed:** ⬇ 0.35 → 0.1 
 - Have a bone on it’s head, and a "super" enchanted crossbow.
 - **Abilities:**  
@@ -1393,7 +1395,8 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Health:** ⬆ 20 → 72  
 - **Speed:** ⬇ 0.23 → 0.225  
 - **Attack Damage:** ➡ 3  
-- **Attack Knockback:** ⬆ 0 → 1 
+- **Attack Knockback:** ⬆ 0 → 1  
+- **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
 - **Knockback Resistance:** ⬆ 0 → 0.75 
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
 **Abilities:**  
