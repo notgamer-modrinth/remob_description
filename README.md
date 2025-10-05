@@ -874,7 +874,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - **Knockback Resistance:** ⬆ 0 → 10  
 
   - **Abilities:**  
-   - **Now it can attack with 3 seperate laser**
+   - Every **laser attack** also comes with **1.5 hearts of damage(3 damage)**, unaffected **by armor, enchants or effects.**
    - **35% chance to regenerate** when hurt.  
    - **20% chance to spawn a Baby Guardian** when hurt.  
    - **Below 50% health**, strikes all entities with lightning bolt within a **5-block radius** and applies **Weakness I for 1 minute** to them.  
