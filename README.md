@@ -439,11 +439,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
 **Abilities:**  
 - Gives **weakness I for 6 seconds** to entities it hurts
-- **Reverses all negative effects** it receives:  
-  - **Weakness → Strength**  
-  - **Slowness → Speed**  
-  - **Poison → Regeneration**  
-- **The Positive effects are always Level I** and last for **1 minute**.
+- Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 
 ## **Giant Drowned (2% to spawn from a regular drowned)**  
 - **Health:** ⬆ 20 → 72  
@@ -452,14 +448,8 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 - **Attack Knockback:** ⬆ 0 → 1  
 - **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
 - **Knockback Resistance:** ⬆ 0 → 0.75 
-- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
-**Abilities:**  
-- **Reverses all negative effects** it receives:  
-  - **Weakness → Strength**  
-  - **Slowness → Speed**  
-  - **Poison → Regeneration**  
-- **The Positive effects are always Level I** and last for **1 minute**.
-- Permanent **regeneration I**
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.
+- Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 </details>
 <details>
 <summary>Enderman Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/enderman_spawn_egg.png" width="16"/></summary>
@@ -1005,12 +995,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Attack Damage:** ⬇ 3 → 2 
 - **Base Armor:** ⬆ 2 → 6  
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
-**Abilities:**  
-- **Reverses all negative effects** it receives:  
-  - **Weakness → Strength**  
-  - **Slowness → Speed**  
-  - **Poison → Regeneration**  
-- **The Positive effects are always Level I** and last for **1 minute**.
+- Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 
 
 ## **Giant Husk (2% to spawn from a regular husk)**  
@@ -1020,14 +1005,8 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Attack Knockback:** ⬆ 0 → 1 
 - **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
 - **Knockback Resistance:** ⬆ 0 → 0.75 
-- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
-**Abilities:**  
-- **Reverses all negative effects** it receives:  
-  - **Weakness → Strength**  
-  - **Slowness → Speed**  
-  - **Poison → Regeneration**  
-- **The Positive effects are always Level I** and last for **1 minute**.
-- Permanent **regeneration I**
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.
+- Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 
 </details>
 <details>
@@ -1382,13 +1361,8 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Speed:** ⬇ 0.23 → 0.225  
 - **Attack Damage:** ➡ 3  
 - **Base Armor:** ⬆ 2 → 4  
-- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
-**Abilities:**  
-- **Reverses all negative effects** it receives:  
-  - **Weakness → Strength**  
-  - **Slowness → Speed**  
-  - **Poison → Regeneration**  
-- **The Positive effects are always Level I** and last for **1 minute**.
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.
+- Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 
 
 ## **Giant Zombie (2% to spawn from a regular zombie)**  
@@ -1398,14 +1372,8 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Attack Knockback:** ⬆ 0 → 1  
 - **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
 - **Knockback Resistance:** ⬆ 0 → 0.75 
-- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
-**Abilities:**  
-- **Reverses all negative effects** it receives:  
-  - **Weakness → Strength**  
-  - **Slowness → Speed**  
-  - **Poison → Regeneration**  
-- **The Positive effects are always Level I** and last for **1 minute**.
-- Permanent **regeneration I**
+- **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**. 
+- Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 - **Splits** into 2 **regular zombies** upon defeat.
 
 </details>
