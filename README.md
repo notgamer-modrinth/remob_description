@@ -189,13 +189,15 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
     - When hurt, **gains Speed II for 15 seconds**. 
 
 ## **Zombie Horse(Zombie has 1% of riding it):**  
-  - **Health:** ⬆ 15 → 35  
-  - **Speed:** ⬇ 0.2 → 0.175  
+  - **Health:** ⬆ 15 → 50  
+  - **Speed:** ⬇ 0.2 → 0.15  
   - **Safe Fall Distance:** ⬆ 3 → 6  
-  - **Scale:** ⬆ 1 → 1.25 
+  - **Scale:** ⬆ 1 → 1.5
+  - **Step Height:** ⬆ 1 → 2 
 
  - **Abilities:**  
-    - When hurt, gains **Regeneration I for 3 seconds.**  
+    - When hurt, gains **Slowness I for 15 seconds.**
+    - **Breaks any small half blocks** it steps on, such as **grass, flowers, crops and even snow**
 </details>
 <details>
 <summary>Pig Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/pig_spawn_egg.png" width="16"/></summary>
