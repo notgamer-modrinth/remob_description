@@ -193,7 +193,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
   - **Speed:** ⬇ 0.2 → 0.15  
   - **Safe Fall Distance:** ⬆ 3 → 6  
   - **Scale:** ⬆ 1 → 1.5
-  - **Step Height:** ⬆ 1 → 2 
+  - **Step Height:** ⬆ 1 → 1.5 
 
  - **Abilities:**  
     - When hurt, gains **Slowness I for 15 seconds.**
