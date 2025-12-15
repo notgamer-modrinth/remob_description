@@ -125,7 +125,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
     - When **struck by lightning**, becomes **charge** and **gains permanent speed II**, also becomes **permanently becomes the unaffected weather state**.
     - When **hurt**, **gains regeneration I for 2 seconds**.
     - Immune to **poison, fall damage, burning, and powder snow**.
-    - Can sometimes be found in **chest** in **trial chambers.**
+    - Can only be found in **trial chambers chests**
 
 </details>
 <details>
@@ -923,8 +923,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
       - Have 50% to be magnified or diminished, will go invisible for 5 seconds first.
          - When magnified, makes scale into 2,  speed into 0.2, knockback resistance into 0.5, and his health is restored back to full health.
          - When diminished, makes scale into 0.65, and speed into 0.6. Gains instant health II.
-    - **Totem Activation (Below 8 HP):**  
-      - Activates **Totem of Undying**, granting **Regeneration III (15s)** and **Absorption V**.  
+      - Activates **Totem of Undying**, granting **Regeneration II (45s)** and **Absorption V**.  
       - Still **drops the totem** upon death and **summons evoker fangs** around nearby entities(including items).
       - **💡Tips:** Kill the baby ravager first, since the ravager is a **major threat**. When you **defeated the evoker**, **run away** as soon as you hear it's laugh. Fight him at a safe distance and kill his minions first.
 
@@ -1072,8 +1071,20 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Abilities(One of these three will activate when health is below 20):**  
   - **Smoke Bomb:** Can drop a **smoke bomb** that obscures vision and grants **Speed II** for a short duration.  
   - Gains **Strength I & Speed I** and **scale increase from 0.9 → 1.25** when enraged.   
-  - **Summon 2 Royal Piglins** to aid in battle.  
-
+  - **Summon 2 Royal Piglins** to aid in battle.
+ 
+ ## **Elite Piglin Brute (Found in Bastion)**  
+  - **Health:** ⬆ 50 → 100  
+  - **Attack Damage:** ➡ 13   
+  - **Speed:** ⬇ 0.35 → 0.275, excpet for raging variant(0.225)  
+- **Variants(variants affect the ability when the elite piglin brute is damaged):**  
+  - **Raging Variant**: Increase scale(0.05), attack damage(0.5), movement speed(0.005), armor(1) everytime it gets hurt
+  - **Eating Variant**: Every time it takes damage, it will stop and eat for 1.5 seconds, these "food items" includes golden carrot, golden apple, ecnhanted golden apple, enchanted golden carrot, smoke bomb, tnt and gold ingot, each giving a unique effect(s).
+  - **Splitting Variant**: Upon death, splits into 2 smaller and weaker variant of the previous elite piglin brute, the splitting process happens 5 times, so there are 31 total elite piglin brute
+  -   - **💡Tips:** Be very careful since if you fight them with the wrong tactic, you won't make it out alive.
+      - The raging variant needs the least amount of hits possible, since if you hit it too many times, it will become too strong to handle
+      - The eating variant should be damaged as fast as possible, the best time is when it is eating(be careful when it is eating a tnt since it will explode and probably kill you)
+      - The splitting variant should be taken down one by one so that the numbers won't overwhelm you. 
 </details>
 <details>
 <summary>Pillager Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/pillager_spawn_egg.png" width="16"/></summary>
