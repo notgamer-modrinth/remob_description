@@ -921,8 +921,8 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
     - **Ability when health is below 24 hp:**  
       - Summon 2 mini resurrected pillagers and a vindicator, they will glow but be invisible, the vindicator won’t have any weapons and pillagers only an unenchanted crossbow.
       - Have 50% to be magnified or diminished, will go invisible for 5 seconds first.
-         - When magnified, makes scale into 2,  speed into 0.2, knockback resistance into 0.5, and his health is restored back to full health.
-         - When diminished, makes scale into 0.65, and speed into 0.6. Gains instant health II.
+         - When magnified, makes scale into 2,  speed into 0.2, knockback resistance into 0.5, gains permanent slowness I, and his health is restored back to full health.
+         - When diminished, makes scale into 0.65, and speed into 0.6, gains instant health II.
       - Activates **Totem of Undying**, granting **Regeneration II (45s)** and **Absorption V**.  
       - Still **drops the totem** upon death and **summons evoker fangs** around nearby entities(including items).
       - **💡Tips:** Kill the baby ravager first, since the ravager is a **major threat**. When you **defeated the evoker**, **run away** as soon as you hear it's laugh. Fight him at a safe distance and kill his minions first.
