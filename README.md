@@ -1213,6 +1213,22 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Abilities:**  
   - **Fully immune to getting burned in daylight**.  
   - **Still wields bows or melee weapons like regular skeletons**.
+ 
+## **Skeleton Hunter (Rare Variant)**  
+- **Health:** ⬇ 20 → 16  
+- **Speed:** ⬆ 0.25 → 0.325  
+- **Attack Damage:** ⬆ 2 → 4  
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+  - Can spawn with a **creeper skull** or an **enderman skull**, though both have no special effects.
+  - **Changes between bow and it's melee weapon according to it's location and distance to the player**
 
 
 ## **Skeleton with Piglin Head (Uncommon Variant & only in the nether)**  
@@ -1428,7 +1444,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - **Rework:**  
     - Spawns and crafted without stone base.
     - Spawns naturally with arms.
-    - **Hit it and the very top of it's head** to **switch it's pose.**
+    - **Hit it at the very top of it's head** to **switch it's pose.**
 
 </details>
 </details>
