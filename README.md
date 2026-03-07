@@ -1,4 +1,13 @@
 # Remob datapack - Beta V 1.0
+
+**Keep in mind this is a beta version**, so **bugs or unfinished features are to be expected**. **If you found a bug, please give feedback through the form.**
+
+**Also note that if you have any unique ideas or things you want to add to this datapack, feel free to leave it on the feedback form, as any new ideas will help with the datapack build.**
+
+This datapack will completely **alter your gameplay experience**, from **subtle changes to massive overhauls!** Most mob now has its own **weaknesses**, and **unique resistances** to specific attack types, making every encounter **more strategic** and **engaging**. Some enemies can’t just be **brute-forced**, you’ll need to **plan your approach carefully** to take them down.
+
+Before you dive in, **make sure to check some important mob reworks in the wiki!(mobs with bold names)** Understanding their abilities is the key to survive these **new and improved threats** roaming around the world.(Check out the gallery for visualized info)
+
 ## What is a mob rework?
 
 Reworks are stat changes, new abilities, and others given to almost every mob, each of them having at the very least **1 unique ability**. Abilities are something that can **help the mobs in defense and offense**, usually **having a counter**. These reworks force players to **strategize to defeat certain mobs with unique abilities**.
@@ -11,7 +20,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 
 ## **Reworks done to passive mobs**
 
-**Keep in mind** that most of the reworks done to passive mobs are made to either **enchance these mobs defense**, **give them a new/more functionality** or **rework their "lore" through their abilities.**
+**Keep in mind** that most of the reworks done to passive mobs are made to either **enhance these mobs defense**, **give them a new/more functionality** or **rework their "lore" through their abilities.**
 
 <details>
 <summary>Allay Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/allay_spawn_egg.png" width="16"/>
@@ -400,7 +409,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 - **Abilities:**  
   - Spawns **1 - 2 additional spiders** upon appearing.  
 
-## ** Cave Wolf Spider (Variant)**  
+## **Cave Wolf Spider (Variant)**  
 - **Health:** ⬆ 16 → 32  
 - **Speed:** ⬇ 0.3 → 0.225  
 - **Safe Fall Distance:** ⬆ 3 → 5  
@@ -440,7 +449,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 - **Base Armor:** ⬆ 2 → 6  
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.  
 **Abilities:**  
-- Gives **weakness I for 6 seconds** to entities it hurts
+- Gives **weakness II for 3 seconds** to entities it hurts
 - Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 
 ## **Giant Drowned (2% to spawn from a regular drowned)**  
@@ -450,10 +459,20 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 - **Attack Knockback:** ⬆ 0 → 1  
 - **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
 - **Knockback Resistance:** ⬆ 0 → 0.75 
+**Abilities:**  
+- Gives **weakness II for 3 seconds** to entities it hurts
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.
 - Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 </details>
 <details>
+## **Drowned Leader (1% to spawn from a regular drowned and only 1 in a 64 block radius)**  
+- **Health:** ⬆ 20 → 50  
+- **Speed:** ➡ 0.23
+- **Attack Damage:** ➡ 3
+- **Knockback Resistance:** ⬆ 0 → 0.75
+- **Abilities:**    
+- Spawns with a **crown** on its head
+- Has a 15% to spawn a regular drownedk when hurt
 <summary>Enderman Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/enderman_spawn_egg.png" width="16"/></summary>
 
 ## **Overworld Enderman:**  
@@ -788,7 +807,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
     - When on fire, **increase scale(1.15) and gain strength II.**
     - Has chance to **set the ground on fire when hurt.**
     - **Can attack with laser from a far distance**(imagine as if a guardian is riding the blaze)
-    - **💡Tips:**Avoid it's lasers by going around a block to reset the laser**
+    - **💡Tips:**Avoid its lasers by going around a block to reset the laser**
 
 </details>
 <details>
@@ -798,6 +817,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Health:** ⬇ 20 → 14  
 - **Speed:** ⬆ 0.25 → 0.3  
 - **Attack Damage:** ⬆ 2 → 5  
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
 - **Weapon Variants:**  
   - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
   - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
@@ -807,6 +827,21 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Abilities:**  
   - **Immune to fall damage**.  
   - **0 burning time** (Does not burn in sunlight).  
+
+## **Bogged Hunter (Rare Variant)**  
+- **Health:** ⬇ 20 → 14  
+- **Speed:** ⬆ 0.25 → 0.3
+- **Attack Damage:** ⬆ 2 → 5
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+  - **Changes between bow and it's melee weapon according to its location and distance to the player**
 
 </details>
 <details>
@@ -1009,6 +1044,15 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.
 - Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 
+## **Husk Leader (1% to spawn from a regular husk and only 1 in a 64 block radius)**  
+- **Health:** ⬆ 20 → 60  
+- **Speed:** ⬇ 0.23 → 0.22
+- **Attack Damage:** ➡ 3
+- **Knockback Resistance:** ⬆ 0 → 0.75
+- **Abilities:**    
+- Spawns with a **crown** on its head
+- Has a 15% to spawn a regular husk when hurt
+
 </details>
 <details>
 <summary>Illusioner Rework(spawn naturally) <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/bow.png" width="16"/></summary>
@@ -1047,6 +1091,41 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 
 </details>
 <details>
+<summary>Parched Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/bogged_spawn_egg.png" width="16"/></summary>
+  
+## **Parched (Regular Variant)**  
+- **Health:** ➡ 20
+- **Speed:** ⬇ 0.25 → 0.225  
+- **Attack Damage:** ⬆ 2 → 4  
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+  - Gives you weakness I for 5 seconds if it damages you
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+
+## **Parched Hunter (Rare Variant)**  
+- **Health:** ➡ 20
+- **Speed:** ⬇ 0.25 → 0.225  
+- **Attack Damage:** ⬆ 2 → 4  
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+  - **Changes between bow and it's melee weapon according to its location and distance to the player**
+
+</details>
+
+<details>
 <summary>Phantom Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/phantom_spawn_egg.png" width="16"/></summary>
 
 ## **Phantom:**  
@@ -1079,7 +1158,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - **Speed:** ⬇ 0.35 → 0.275, excpet for raging variant(0.225)  
 - **Variants(variants affect the ability when the elite piglin brute is damaged):**  
   - **Raging Variant**: Increase scale(0.05), attack damage(0.5), movement speed(0.005), armor(1) everytime it gets hurt
-  - **Eating Variant**: Every time it takes damage, it will stop and eat for 1.5 seconds, these "food items" includes golden carrot, golden apple, ecnhanted golden apple, enchanted golden carrot, smoke bomb, tnt and gold ingot, each giving a unique effect(s).
+  - **Eating Variant**: Every time it takes damage, it will stop and eat for 1.5 seconds, these "food items" includes golden carrot, golden apple, enchanted golden apple, enchanted golden carrot, smoke bomb, tnt, bed and gold ingot, each giving a unique effect(s).
   - **Splitting Variant**: Upon death, splits into 2 smaller and weaker variant of the previous elite piglin brute, the splitting process happens 5 times, so there are 31 total elite piglin brute
   -   - **💡Tips:** Be very careful since if you fight them with the wrong tactic, you won't make it out alive.
       - The raging variant needs the least amount of hits possible, since if you hit it too many times, it will become too strong to handle
@@ -1131,7 +1210,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - The **first hit** taken gives it **Slowness & Weakness X** for **3 seconds**.  
   - When below **100 HP**, **it will unleash a roars**, affecting all **entities within 10 blocks** with **Weakness & Slowness III** for **5 seconds**.  
   - When enraged, **grows bigger** (**Scale: 1.3 → 1.45**) and gains **permanent Speed I**.
-  - **💡Tips:** Hurt the ravager first when it's at full health, then defeat the ravager by entering a small enterance, and making sure it can't get to you.
+  - **💡Tips:** Hurt the ravager first when it's at full health, then defeat the ravager by entering a small entrance, and making sure it can't get to you.
 
 </details>
 <details>
@@ -1148,10 +1227,10 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 <details>
 <summary><b>Click here to reveal all the 'surprise' according to the shulker's color</b> <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/shulker_shell.png" width="16"/></summary>
   
-  - White → **Summons a ghast** or **a chicken** on death. 
-  - Orange → **Spawns a fire resistance lingering potion** on death.  
-  - Magenta → **Spawns an Endermite** when defeated.  
-  - Light Blue → **Spawns a slowness lingering potion** or **a glow squid** on death.  
+  - White → Summons either **a ghast**, **a skeleton**,  or **a chicken**, place a white wool or snow powder, summons a polar bear, or drop a milk bucket, summons a panda, drops string on death. 
+  - Orange → **Spawns a fire resistance lingering potion** summons frog, hoglin, piglin brute, fox, blaze, carrot, rotten flesh on death.  Place orange wool, pmpkin, red sand
+  - Magenta → **Spawns an Endermite**, zoglin, pig,  axolotl, tropical fish, chorus fruit, porkchop, place magenta wool, magenta calde or magenta stained lass when defeated.  
+  - Light Blue → **Spawns a slowness lingering potion**, baby warden, allay, breeze, rare axolotl, guardian, prismarine, diamond, place light blue wool, water or pack iced or **summons a glow squid** on death.  
   - Yellow → **Summons a blaze** or **a bee** on death.   
   - Lime → **Spawns 3-5 Creeplings** or **a turtle** on death.  
   - Pink → **Summons a zombified piglin** or **a baby zoglin** or **a pig** on death.  
@@ -1209,6 +1288,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Speed:** ⬇ 0.25 → 0.2  
 - **Attack Damage:** ⬆ 2 → 5  
 - **Armor:** ⬆ 0 → 6  
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
 - **Knockback Resistance:** 0.25  
 - **Abilities:**  
   - **Fully immune to getting burned in daylight**.  
@@ -1227,8 +1307,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Abilities:**  
   - **Immune to fall damage**.  
   - **0 burning time** (Does not burn in sunlight).  
-  - Can spawn with a **creeper skull** or an **enderman skull**, though both have no special effects.
-  - **Changes between bow and it's melee weapon according to it's location and distance to the player**
+  - **Changes between bow and it's melee weapon according to its location and distance to the player**
 
 
 ## **Skeleton with Piglin Head (Uncommon Variant & only in the nether)**  
@@ -1261,6 +1340,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Health:** ⬇ 20 → 14  
 - **Speed:** ⬆ 0.25 → 0.35  
 - **Attack Damage:** ⬆ 2 → 3  
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
 - **Weapon Variants:**  
   - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
   - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
@@ -1270,6 +1350,21 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Abilities:**  
   - **Immune to fall damage**.  
   - **0 burning time** (Does not burn in sunlight).  
+
+## **Stray Hunter (Rare Variant)**  
+- **Health:** ⬇ 20 → 14  
+- **Speed:** ⬆ 0.25 → 0.35  
+- **Attack Damage:** ⬆ 2 → 3
+- **Follow Range:** ⬇ 16 → 8  (Melee only)
+- **Weapon Variants:**  
+  - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
+  - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
+  - Can still wield a bow 
+  - Can have an empty hand
+- **Abilities:**  
+  - **Immune to fall damage**.  
+  - **0 burning time** (Does not burn in sunlight).  
+  - **Changes between bow and it's melee weapon according to its location and distance to the player**
 
 </details>
 <details>
@@ -1369,9 +1464,9 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 <summary>Wither Skeleton Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/wither_skeleton_spawn_egg.png" width="16"/></summary>
   
 ## **Wither Skeleton (Regular Variant)**  
-- **Health:** ⬇ 20 → 18  
-- **Speed:** ⬆ 0.25 → 0.275  
-- **Attack Damage:** ⬆ 2 → 6  
+- **Health:** ⬆ 20 → 40  
+- **Speed:** ➡ 0.25
+- **Attack Damage:** ⬆ 2 → 7
 - **Weapon Variants:**  
   - Can wield **Iron, Stone, Wooden, Golden, or Diamond (rare) Swords**.  
   - Can rarely(but not that rare) wield **Iron, Wooden, Stone, Golden, or Diamond (rare) Axes**.  
@@ -1380,6 +1475,13 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Abilities:**  
   - **Immune to fall damage**.  
   - **0 burning time** (Does not burn in sunlight).  
+  - On spawn, it has a glowing head and a wither skeleton soul in its rib cage. Once its health is below 12, the soul will exit the body and leave it motionless.
+
+### **Wither skeleton’s Soul (Summoned Mob):**  
+  - **Health:** 1 hit
+  - **Attack Damage:** 7
+  - **Lifetime:** **30 seconds** before disappearing.  
+  - **Leaves behind a trail of soul particles.**  
 
 </details>
 <details>
@@ -1391,7 +1493,8 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Attack Damage:** ➡ 3  
 - **Base Armor:** ⬆ 2 → 4  
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.
-- Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
+- **Abilities:**  
+  - Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 
 
 ## **Giant Zombie (2% to spawn from a regular zombie)**  
@@ -1402,8 +1505,18 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Step Height:** ⬆ 1 → 1.5 (Can now walk over fences)  
 - **Knockback Resistance:** ⬆ 0 → 0.75 
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**. 
+- **Abilities:**  
 - Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
 - **Splits** into 2 **regular zombies** upon defeat.
+
+## **Zombie Leader (1% to spawn from a regular zombie and only 1 in a 64 block radius)**  
+- **Health:** ⬆ 20 → 50  
+- **Speed:** ➡ 0.23
+- **Attack Damage:** ➡ 3
+- **Knockback Resistance:** ⬆ 0 → 0.75
+- **Abilities:**    
+- Spawns with a **crown** on its head
+- Has a 15% to spawn a regular zombie when hurt
 
 </details>
 <details>
@@ -1420,6 +1533,41 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 
 
 </details>
+<details>
+<summary>Zombified Piglin Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/zombified_piglin_spawn_egg.png" width="16"/></summary>
+  
+## **Zombified Piglin (Regular Variant)**  
+- **Health:** ⬆ 20 → 35 
+- **Speed:** ⬇ 0.23 → 0.135  
+- **Attack Damage:** ⬆ 3 → 5    
+- **Base Armor:** ⬆ 2 → 3  
+**Abilities:**  
+- Can spawn riding another zombified piglin, this limit is 10 zombified piglin
+- When hurt gives nearby zombified piglin speed III for 3 seconds
+
+
+## **Giant Zombified Piglin (2% to spawn from a regular zombie)**  
+- **Health:** ⬆ 20 → 120  
+- **Speed:** ⬇ 0.23 → 0.15
+- **Attack Damage:** ⬆ 3 → 12  
+- **Attack Knockback:** ⬆ 0 → 1  
+- **Step Height:** ⬆ 1 → 2
+- **Knockback Resistance:** ⬆ 0 → 0.85
+**Abilities:**  
+- **Scale:** ⬆ 1 →  2
+- **Splits** into 4 **regular zombified piglin** upon defeat.
+
+## **Zombified Piglin Leader (1% to spawn from a regular zombified piglin and only 1 in a 64 block radius)**  
+- **Health:** ⬆ 20 → 80  
+- **Speed:** ➡ 0.23
+- **Attack Damage:** ⬆ 3 → 5
+- **Knockback Resistance:** ⬆ 0 → 0.75
+**Abilities:**  
+- Spawns with a **crown** on its head
+- Has a 15% to spawn a regular zombified piglin when hurt
+
+</details>
+
 </details>
 <details>
 <summary><strong>Item Mobs</strong></summary>
@@ -1444,7 +1592,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - **Rework:**  
     - Spawns and crafted without stone base.
     - Spawns naturally with arms.
-    - **Hit it at the very top of it's head** to **switch it's pose.**
+    - **Hit it at the very top of its head** to **switch its pose.**
 
 </details>
 </details>
@@ -1470,11 +1618,11 @@ Hell Wither is an upgraded version of a regular wither with more health, **Makin
 ## 🌀 Phase Breakdown
 
 ### **Phase 1:  (100% → 50%)**
-- Has a 15% chance to summon a **small wither skeleton on a wither skull** with **3 seconds of invulnnarability**(to prevent them of dying from the explosion damage.
+- Has a 15% chance to summon a **small wither skeleton on a wither skull** with **3 seconds of invulnerability**(to prevent them of dying from the explosion damage.
 - When damaged, explodes.
 
 ### **Phase 2:  (≤ 50%)**
-- Summons a wither miniboss and posses it, defeat it and the wither will go to his invul state then explode heavily.
+- Summons a wither miniboss and posses it, defeat it and the wither will go to his invulnerable state then explode heavily.
 
 ---
 
@@ -1505,7 +1653,7 @@ Introducing **"New Mobs"** to fill in the gaps left by existing ones, adding uni
 Spawning with the **chance of replacing vindicator and pillager**(2% for both)  
 
 **Purpose:**  
-Serves as a **tank** and **support** in the **illagers family**. Bonus: Adds the lore that illagers uses machinary and magics.
+Serves as a **tank** and **support** in the **illagers family**. Bonus: Adds the lore that illagers uses machinery and magics.
 
 **Counter(s):**  
 - **Boats** and other things that can trap it into place.
@@ -1513,9 +1661,10 @@ Serves as a **tank** and **support** in the **illagers family**. Bonus: Adds the
 
 **Abilities:**  
 - **Immune to projectile.**
+- When health is **above 25**, it will “jumpscare you” by covering your pov with it’s head also blinding and slowing you for 5 seconds, it will only jumpscare you when you are in a close radius and it has a 15 second cooldown
 - When health is **below 25**, the face becomes activated and **increase the attack to 6 and slows down.**
-- Give nearby pillager and vindicator buffes(**speed II and strength I respectively for 30 seconds**) **when health is below 25.**
-- Explodes on defeat with a burst of smoke which gives slowness II and blidness I for 20 seconds to all entities(except illagers) in a 5 block radius.
+- Makes nearby pillagers, vindicators and witches activate their abilities, which can be a powerful threat
+- Explodes on defeat with a burst of smoke which gives slowness II and blindness I for 20 seconds to all entities(except illagers) in a 5 block radius.
 
 
 </details>
@@ -1537,7 +1686,7 @@ Serves as a **tank** and **pressure** to fill the gaps in the end. Bonus: Adds t
 
 **Counter(s):**  
 - **Boats** and other things that can trap it into place.
-- **Defeat it with your fist**, since the damage dealt doesn't matter, only the ammount of hits that does.
+- **Defeat it with your fist**, since the damage dealt doesn't matter, only the amount of hits that does.
 
 **Abilities:**  
 - **Immune to fire and any poison effects.**
@@ -1557,7 +1706,7 @@ Advancements are added to make the progression much clearer.
  <details>
 <summary>Advancements</summary>
   
-| **Name** | **Descrition** | **Frame** | **Objective** |  
+| **Name** | **Description** | **Frame** | **Objective** |  
 |------------|-----------|-----------|------------|  
 | **Who Lives in a Monument Under the Sea** | **Find an ocean monument, maybe find out who lives there** | **Goal** | **Go to an ocean monument.** |  
 | **Retired for Good** | **Kill an elder guardian, make it retired for good** | **Challenge** | **Kill an elder guardian** |  
@@ -1565,20 +1714,70 @@ Advancements are added to make the progression much clearer.
 | **Into the Plushiverse** | **Break the fourth wall by buying a plush from another universe, sold by wandering traders in the end** | **Goal** | **Buy a non-minecraft plush from a wandering trader in the end** |  
 | **Not a King, He's a Legend** | **Technoblade never dies** | **Challenge** | **Buy a technoblade plush from a wandering trader** |  
 | **Plush the Limit** | **Buy all available plush from the wandering trader** | **Challenge** | **Buy all 19 variant of mob plushie(very hard and frustrating)** |  
-| **The Hamborgini** | **Ride a pig using a saddle and a carot on a stick to control it** | **Task** | **Saddle then mount a pig** | 
+| **The Hamborgini** | **Ride a pig using a saddle and a carrot on a stick to control it** | **Task** | **Saddle then mount a pig** | 
 | **Do You Want to Build a Snowman** | **Build a snow golem, and also ask your friend to join(if you have one)** | **Task** | **Build a snow golem** | 
-| **That's all folks** | **Defeat an illusioner in a raid or mansion** | **Task** | **Kill an illusioner** | 
-| **The Vanishing treatment..** | **Take down a phantom, and hope that it won't pick you up** | **Task** | **Kill a phantom** | 
+| **That's All Folks** | **Defeat an illusioner in a raid or mansion** | **Task** | **Kill an illusioner** | 
+| **The Vanishing Treatment..** | **Take down a phantom, and hope that it won't pick you up** | **Task** | **Kill a phantom** | 
 | **Painful Harmony** | **Play a music disc near a warden, just know that it won't be happy hearing that** | **Goal** | **Play a jukebox near a warden** | 
-| **Semi-mutualistic Relation** | **Kill a ghast in the nether and free it's soul, though it seems that it's soul is still aggressive** | **Task** | **Kill a ghast, but not in the overworld.** | 
-| **With Great Power..** | **Get an ender pearl from an enderman or chest** | **Task** | **Get an enderpearl** | 
-| **Comes Great Risks** | **Use an ender pearl to reposition quickly — just remember to land safely.** | **Task** | **Use an enderpearl** | 
-| **Mutualistic Parasite** | **Kill an endermite that... can ride enderman?** | **Task** | **Kill an endermite** | 
-| **Obvious Surveillance** | **Defeat an observer and make it stop observing you** | **Task** | **Kill an observer(new mob found in illagers family)** | 
+| **One Sided Relation** | **Kill a ghast in the nether and free it's soul, though it seems that it's soul is still aggressive** | **Task** | **Kill a ghast, but not in the overworld.** | 
+| **With Great Power..** | **Get an ender pearl from an enderman or chest** | **Task** | **Get an ender pearl** | 
+| **Comes Great Risks** | **Use an ender pearl to reposition quickly — just remember to land safely.** | **Task** | **Use an ender pearl** | 
+| **Cutest Parasite** | **Kill an endermite that... can ride endermens? Why is it so cute??** | **Task** | **Kill an endermite** | 
+| **Meticulous Surveillance** | **Defeat an observer unit and make it stop observing you** | **Task** | **Kill an observer(new mob found in illager family)** | 
 | **Big Bad Brute** | **Strategically defeat a piglin brute in the bastion remnant** | **Task** | **Kill a piglin brute** | 
-| **Box of Suprises** | **Pick a fight with a colored shulker, just hope your luck won't turn on you** | **Goal** | **Kill a shulker** |
+| **Bigger Badder Brute-er** | **Strategically and over-planningly defeat an elite piglin brute in the bastion remnant, be really careful as they are very dangerous** | **Goal** | **Kill an elite piglin brute** |
+| **Box of Surprises** | **Pick a fight with a colored shulker, just hope your luck won't turn on you** | **Goal** | **Kill a shulker** |
 | **Into the Air** | **Relive a Breeze of its rod, try parrying its wind charge first** | **Task** | **Get a breeze rod** | 
 | **Let's go Looting** | **Obtain a wandering trader loot crate from a wandering trader** | **Challenge** | **Get a wandering trader loot crate from a wandering trader(15% to have that trade)** |
 | **One last trick** | **Defeat an evoker, while he got many tricks up his sleeve, it's not enough to save him.** | **Goal** | **Kill an evoker** |
-| **Wanderful Trade** | **Trade with a wandering trader** | **Task** | **Trade with a wandering trader** |
+| **Wanderful Trades** | **Trade with a wandering trader** | **Task** | **Trade with a wandering trader** |
 </details>
+
+
+## Recent Changelogs
+
+<details>
+<summary>Beta V 1.0</summary>
+  
+# **Beta V 1.0**
+- **Remove Alpha Mobs from this datapack** as they aren’t fit well into this datapack, they will be moved to **another datapack/mods**(soon)
+- Reworked the ender dragon and wither. You can see the reworks on the boss section.
+- Fix many bugs regarding the advancement and loot.
+- Fix evoker's rework so it battles with many tricks up his sleeves.
+- Fix creaking and warden reworks so when they hit you, many experience orb comes out(basicly they steal some xp)
+- Add llamas and camel rework.
+- Add new trade to wandering trader's trade pool, they basically can trade loot chests found in structures now.
+- Fix and rework zombie villagers so now they naturally gain weakness I when its health is low enough
+- Add skeleton variants, the creeper, enderman and piglin but they spawn rarely and won't affect much of your gameplay.
+- Add a stronger skeleton, the hunter, symbolized by the bone it has on its mouth, now it can switch between melee and ranged weapons according to its distance from the player.
+- Rework shuker so they act more like a lucky block, giving a surprise when defeated.
+- Fix chicken's ability so they now correspond to their variants.
+- Make a huge rework to breeze, now they can spawn in mountain and frozen biomes, replacing the witch position.
+- Add a rework for the copper golem mob, to make it more lively.
+- Adds small copper golem which hides in trial chamber chests.
+- Nerf creepling's follow range attributes to make it easier to avoid them.
+- Make a huge rework to Trial Chamber trial spawners, so they fit the datapack more.
+- Rework piglin chiefs(both variants) into fungi-infected piglin based on their location, which acts as a spawner class in the nether.
+- Fix a bug where you used to get the effects you should have get when hurt by mobs, even when you're blocking the hit with a shield.
+- Give massive buff to shulker, making them invulnerable when hiding. This change is made to give shulker a more end-game vibe.
+- Nerf royal piglin absorption health, they were too tanky and overall not-enjoyable to fight.
+- Fix armorstand gimmick, so you can change their pose much easier.
+- Change pillager leader so their ability matches more like an illusioner.
+- Added more plush(10 in total) to make the wandering trader more unique, also 6 of them are plushies with characters from outside the game, sold only in the end dimension.
+- Rework the blaze so it feels more like a mid-end game mob.
+- Buff the Elder Guardian by giving it a fix 1.5 hearts of follow-up damage, not affected by armor, enchant and potion effects to give it a "mini-boss tier ability"
+- Wandering traders can now be located through the locator bar.
+- Slightly nerfed the killer bunny to deal less damage.
+- Makes heavy changes to villagers trading system, especially with items they are trading.
+- Reworks for new mobs(nautilus, parched and zombie camel)
+- Rework for zombies, now if it attacks you without holding any weapon, it bites you which can give you negative effect(s).
+- Make three new elite variants for piglin brutes, making them an actual threat.
+- Change the evoker's totem ability so it will always work.
+- Make a huge rework for wither skeletons so now they differ from the rest of the skeletons, also added elite variants, which spawns a soul everytime they attack.
+- Also buff zombified piglins, so they are more ‘elite’ than the rest of the zombie crew.
+- Make a big change for the observer to give them an actual purpose(observing you a little too much) and also renaming the to be ‘Observer Unit’
+- Added leader variants to every zombie which can spawn reinforcement
+</details>
+
+
+
