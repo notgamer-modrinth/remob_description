@@ -463,8 +463,7 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 - Gives **weakness II for 3 seconds** to entities it hurts
 - **Weapons:** Can spawn with **any tool** of **any rarity (except Netherite)**, and they can be **enchanted**.
 - Have chances to give either **hunger, poison or nausea(each 15%, can stack)** to entities it **bit**(**close range** only with **no weapon**)
-</details>
-<details>
+
 ## **Drowned Leader (1% to spawn from a regular drowned and only 1 in a 64 block radius)**  
 - **Health:** ⬆ 20 → 50  
 - **Speed:** ➡ 0.23
@@ -473,6 +472,8 @@ Reworks are stat changes, new abilities, and others given to almost every mob, e
 - **Abilities:**    
 - Spawns with a **crown** on its head
 - Has a 15% to spawn a regular drownedk when hurt
+</details>
+<details>
 <summary>Enderman Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/enderman_spawn_egg.png" width="16"/></summary>
 
 ## **Overworld Enderman:**  
@@ -1184,7 +1185,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
 - **Health:** ⬆ 24  → 32
 - **Scale:** ⬆ 1 → 1.15
 - **Speed:** ⬇ 0.35 → 0.1 
-- Have a bone on it’s head, and a "super" enchanted crossbow.
+- Has a bone on it’s head, and a "super" enchanted crossbow.
 - **Abilities:**  
   - Spawns with a killer rabbit, just like the illusioner.
 
