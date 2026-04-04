@@ -1635,43 +1635,6 @@ Black → When defeated, this lucky block may spawn **ravager**, **wither skelet
 
 </details>
 </details>
-
-<details>
-<summary><strong>Boss Mobs</strong></summary>
-<details>
-<summary>Wither Rework - Hell Wither <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/nether_star.png" width="16"/></summary>
-  
-# Hell Wither
-
-**Role**: Boss  
-**Health**: 600 HP  
-**Phases**: 2 
-**Immunities**: 
-
----
-
-## Description
-Hell Wither is an upgraded version of a regular wither with more health, **Making a more difficult and enjoyable battle** with "phases" to really emphasize the **feeling of a boss battle.**
-
-
-## 🌀 Phase Breakdown
-
-### **Phase 1:  (100% → 50%)**
-- Has a 15% chance to summon a **small wither skeleton on a wither skull** with **3 seconds of invulnerability**(to prevent them of dying from the explosion damage.
-- When damaged, explodes.
-
-### **Phase 2:  (≤ 50%)**
-- Summons a wither miniboss and posses it, defeat it and the wither will go to his invulnerable state then explode heavily.
-
----
-
-## Wither Miniboss
-
-
-</details>
-</details>
-
-
 <details>
 <summary><strong>New Mobs</strong></summary>
   
