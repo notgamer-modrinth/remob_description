@@ -991,7 +991,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
     - **Summon evoker fangs on players around(with range of 8 blocks, changes with its size, small(6 blocks but faster), big(16blocks but slower))
     - **Ability when health is below 24 hp:**  
       - Will **spam its spell(summoning vex and evoker fangs)** unless hurt.
-      - Summon **3 mini resurrected pillagers and 3 vindicators**, they will glow but be invisible, the vindicator won’t have any weapons and pillagers will load its crossbow in 1.5 seconds slower.
+      - Summon **3 mini resurrected pillagers and 3 vindicators**(Leader variants summon 2 more witches), they will glow but be invisible, the vindicator won’t have any weapons and pillagers will load its crossbow in 1.5 seconds slower.
       - Have 50% to be magnified or diminished, will go invisible and be invulnerable for 5 seconds first.
          - When magnified, makes scale into 2,  speed into 0.2, knockback resistance into 0.5, gains permanent slowness I, and his health is restored back to full health.
          - When diminished, makes scale into 0.65, and speed into 0.325(it will always run away, having a speed above that means that the evoker will run away slightly faster than the player’s running speed), gains instant health II.
@@ -1006,14 +1006,19 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - **Scale:** ⬇ 1.3 → 0.75  
 
 ### **Resurrected pillager (Summoned Mob):**  
-  - **Health:** ⬇ 24 → 16  
-  - **Scale:** ⬇ 1 → 0.75  
+  - **Health:** ⬆ 24 → 32  
+  - **Scale:** ⬇ 1 → 0.75
+  - **Notes:** Recharges **1.5 seconds slower.**
 
 ### **Resurrected vindicator (Summoned Mob):**  
-  - **Health:** ⬇ 24 → 16  
+  - **Health:** ⬆ 24 → 486  
  - **Attack Damage:** ⬇ 8 → 6  
   - **Speed:** ⬆ 0.35 → 0.45 
-  - **Scale:** ⬇ 1 → 0.75  
+  - **Scale:** ⬇ 1 → 0.75
+
+### **Resurrected witch (Summoned Mob):**  
+  - **Health:** ⬆ 26 → 48  
+ - **Follow Range:** ⬇ 16 → 8
 
 
 </details>
@@ -1102,7 +1107,7 @@ I **recomended** you to see **all the reworks** since most of these reworks are 
   - **Abilities:** 
     - Starts off as a random illusion(pillager or vindicator), once hit, reveal its true self
     - Shoot random bad-effect arrow, has 1% chance to shoot a killer rabbit
-    - After revealing, spawns with **2 Killer Rabbits**  
+    - After revealing, spawns with **2 Killer Rabbits**(Leader variant summons 2 more killer rabbit)  
     - Upon defeat, **summons 3 vexes.**   
   - **💡Tips:** Focus on killing the illusioner first(you can defeat it easier using fire), see its blue particle, and avoid hurting any killer rabbits since they move extremely fast when damaged.
   
@@ -1509,27 +1514,26 @@ Black → When defeated, this lucky block may spawn **ravager**, **wither skelet
 - **Knockback Resistance:** ⬆ 0 → 0.5  
 - **Follow Range:** ⬆ 16 → 32  
 **Abilities:**  
-- **Spawns 4 Mini Skeletons** once her health **drops below 10 hp**.  
-  - If she regenerates **above 25 hp**, the effect resets, allowing her to spawn Mini Skeletons again when her health drops.  
-- **Upon defeat,** a **Splash Potion of Harming II** is dropped at her last position.  
-
-### **Mini Skeleton (Summoned Mob)**  
-- **Health:** 5  
-- **Attack Damage:** 1.5  
-- **Speed:** ⬆ 0.25 → 0.35  
-- **Scale:** ⬇ 1 → 0.65  
-
-</details>
-
-## **Witch (Regular Variant)**  
-- **Health:** ⬆ 26 → 30  
-- **Knockback Resistance:** ⬆ 0 → 0.5  
-- **Follow Range:** ⬆ 16 → 32  
-**Abilities:**  
 - **Spawns 2 Mini illagers** once her health **drops below 10 hp**.  
   - If she regenerates **above 25 hp**, the effect resets, allowing her to spawn Mini Skeletons again when her health drops.  
 - Ressurests into a mini witch which will be slower
 
+### **Resurrected pillager (Summoned Mob):**  
+  - **Health:** ⬆ 24 → 32  
+  - **Scale:** ⬇ 1 → 0.75
+  - **Notes:** Recharges **1.5 seconds slower.**
+
+### **Resurrected vindicator (Summoned Mob):**  
+  - **Health:** ⬆ 24 → 486  
+ - **Attack Damage:** ⬇ 8 → 6  
+  - **Speed:** ⬆ 0.35 → 0.45 
+  - **Scale:** ⬇ 1 → 0.75
+
+### **Resurrected witch (Summoned Mob):**  
+  - **Health:** ⬆ 26 → 48  
+ - **Follow Range:** ⬇ 16 → 8
+
+</details>
 <details>
 <summary>Wither Skeleton Rework <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.9-rc1/assets/minecraft/textures/item/wither_skeleton_spawn_egg.png" width="16"/></summary>
   
